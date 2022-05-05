@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - master
-
 jobs:
   build:
     name: Deploy docs
@@ -11,7 +10,6 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v2
-
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
