@@ -8,4 +8,5 @@ nav:
     - Home: index.md
     - About: about.md
     - Starting: start.md
-
+theme:
+  name: 'material'
