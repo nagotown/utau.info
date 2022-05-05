@@ -6,5 +6,7 @@ repo_name: 'nagotown/webtest2'
 repo_url: 'https://github.com/nagotown/webtest2'
 nav:
     - Home: index.md
+    - About: about.md
+    - Starting: start.md
 theme:
   name: 'material'
