@@ -1,12 +1,6 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'nagotown'
-docs_dir: docs/
-repo_name: 'nagotown/webtest2'
-repo_url: 'https://github.com/nagotown/webtest2'
+site_name: nagosite
+site_url: https://nagotown.gitbub.io/webtest2/
 nav:
     - Home: index.md
-    - About: about.md
-    - Starting: start.md
-theme:
-  name: 'material'
+    
+theme: readthedocs 
