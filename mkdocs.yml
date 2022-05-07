@@ -1,3 +1,25 @@
-site_name: My Docs
+site_name: utau.info
+nav:
+  - Home: index.md
+  - Starting UTAU: 
+    - Introduction: start/intro.md
+    - Glossary: start/glossary.md
+  - Resources: resources.md
+  - About: about.md
 theme:
   name: material
+  icon:
+    logo: material/music-note
+  palette: 
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+    - scheme: slate 
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode

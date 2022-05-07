@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Welcome to utau.info!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website is meant to be a guide for people just starting to use UTAU and to provide additional resources to people who do know how to use it.
 
-## Commands
+This website is VERY Work-In-Progress, so many sections are not complete.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+~ 5/6/2022
