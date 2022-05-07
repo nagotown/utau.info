@@ -1,6 +1,1 @@
-site_name: nagosite
-site_url: https://nagotown.gitbub.io/webtest2/
-nav:
-    - Home: index.md
-    
-theme: readthedocs 
+site_name: My Docs
