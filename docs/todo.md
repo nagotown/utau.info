@@ -3,7 +3,7 @@
         - [X] Intro
         - [ ] Glossary
     - [ ] Setup
-        - [ ] Installation
+        - [X] Installation
         - [ ] Resamplers
         - [ ] Plugins
     - [ ] Voicebanks
@@ -20,3 +20,4 @@
 - [ ] Add contact link / mail
 - [ ] Introduction to UTSU and OpenUtau
 - [ ] Additional languages? (Contribs appreciated)
+- [ ] "Reference" tab (keyboard shortcuts, etc)

@@ -7,6 +7,18 @@ nav:
       - Glossary: start/glossary.md
     - Setup:
       - Installation: start/install.md
+      - Resamplers: start/resamplers.md
+      - Plugins: start/plugins.md
+    - Voicebanks:
+      - Types: start/vbtypes.md
+      - Downloading: start/vbdownload.md
+      - Loading: start/vbloading.md
+      - Making: start/vbmaking.md
+    - USTs:
+      - UI Reference: start/uireference.md
+      - Adding Notes: start/notes.md
+      - Flags: start/flags.md
+      - Tuning: start/tuning.md
   - Resources:
     - General: resources/general.md 
     - Resamplers: resources/resamplers.md
@@ -21,20 +33,21 @@ theme:
     logo: material/music-note
   features:
     - navigation.tabs
-    - navigation.sections
+    - navigation.expand
   palette: 
-    - scheme: default
-      primary: deep purple
-      accent: deep purple
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
     - scheme: slate 
       primary: deep purple
       accent: purple
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+
 markdown_extensions:
   - admonition
   - pymdownx.details
