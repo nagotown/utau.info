@@ -10,6 +10,4 @@ To download the latest version of UTAU, click `v0.4.18e インストーラ` on [
 
 Click the rightmost button until installation is finished.
 
-| ![Step 1](../img/1.png) | ![Step 2](../img/2.png) |
-|-|-|
-| ![Step 3](../img/3.png) | ![Step 4](../img/4.png) |
+![Step 1](../img/installersteps.png) 
