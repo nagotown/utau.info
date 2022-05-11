@@ -1,0 +1,22 @@
+- [ ] Finish basic "Getting Started" tutorial ([Starting UTAU](/start/intro))
+    - [ ] Start
+        - [X] Intro
+        - [ ] Glossary
+    - [ ] Setup
+        - [ ] Installation
+        - [ ] Resamplers
+        - [ ] Plugins
+    - [ ] Voicebanks
+        - [ ] Types
+        - [ ] Downloading
+        - [ ] Loading
+        - [ ] Making
+    - [ ] USTs
+      - [ ] Making a MIDI / UST
+      - [ ] Adding Notes
+      - [ ] Tuning
+- [ ] Oto tutorial or compile oto tutorials by others
+- [ ] Add more resources
+- [ ] Add contact link / mail
+- [ ] Introduction to UTSU and OpenUtau
+- [ ] Additional languages? (Contribs appreciated)

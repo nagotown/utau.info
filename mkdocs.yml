@@ -2,18 +2,30 @@ site_name: utau.info
 nav:
   - Home: index.md
   - Starting UTAU: 
-    - Introduction: start/intro.md
-    - Glossary: start/glossary.md
-  - Resources: resources.md
+    - Start:
+      - Introduction: start/intro.md
+      - Glossary: start/glossary.md
+    - Setup:
+      - Installation: start/install.md
+  - Resources:
+    - General: resources/general.md 
+    - Resamplers: resources/resamplers.md
+    - Wavtools: resources/wavtools.md
+    - Plugins: resources/plugins.md
+    - Tools: resources/tools.md
   - About: about.md
+  - To-do: todo.md
 theme:
   name: material
   icon:
     logo: material/music-note
+  features:
+    - navigation.tabs
+    - navigation.sections
   palette: 
     - scheme: default
       primary: deep purple
-      accent: purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
@@ -23,3 +35,19 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true 

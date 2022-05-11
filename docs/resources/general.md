@@ -1,31 +1,21 @@
 ## Editors
 
 - [UTAU](http://utau2008.xrea.jp/)
-- [UTAU-Synth](http://utau-synth.com/)
-- [OpenUtau](http://www.openutau.com/)
+- [Utau-Synth](http://utau-synth.com/index.html)
+- [OpenUTAU](https://github.com/stakira/OpenUtau)
 - [UTSU](https://github.com/titinko/utsu)
 
 ## Voicebanks
 
-- [utau.wiki](https://utau.wiki)
+- [UTAU Wiki](https://utau.wiki)
+- [UTAU Visual Archive](http://utaudatabase.wiki.fc2.com/)
 
 ## USTs
 
 - [half a head](https://half-a-head.tumblr.com/USTs)
 - [nmasao1](https://sites.google.com/site/utauust/)
 
-## Resamplers / Wavtool List
-
-- [Click](/resampler-wavtool)
-
-## Tools
-
-- [OREMO]
-- [SetParam]
-- [akorin]
-- [WavConfigTool]
-
-## Other UTAU sites
+## Other UTAU websites
 
 - [Yin's Oto Tutorial](https://yinsototutorial.weebly.com/)
 - [namazuworks](https://namazuworks.github.io/index.html)
