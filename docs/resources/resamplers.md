@@ -19,8 +19,8 @@ Remake of resampler.
 ### fresamp
 Stands for **f**rame**resamp**ler.
 
-- [014](http://utau2008.xrea.jp/downloads/fresamp014.zip)
-- [011](http://utau2008.xrea.jp/downloads/fresamp011.zip)
+- 014 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp014.zip)
+- 011 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp011.zip)
 
 ### f2resamp
 Remake of fresamp.

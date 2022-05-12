@@ -1,3 +1,5 @@
+# Plugin Directory
+
 ## iroiro & iroiro2
 By bizz. A plugin that can do many things, like convert and mass edit lyrics.
 
@@ -23,6 +25,11 @@ By Zteer.
 By Zteer.
 
 - [Latest](http://z-server.game.coocan.jp/utau/utautop.html#envedit)
+
+## AutoPitchWriter
+By Canon. Automatically tunes the UST.
+
+- [Youtube](https://www.youtube.com/watch?v=pdxMg2ViASU)
 
 ## VSPitch
 By Ackie Sound. Reads VocalShifter project / WAV file and applies the pitch.
