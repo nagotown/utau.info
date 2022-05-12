@@ -10,7 +10,6 @@
         - [ ] Types
         - [ ] Downloading
         - [ ] Loading
-        - [ ] Making
     - [ ] USTs
       - [ ] Making a MIDI / UST
       - [ ] Adding Notes
@@ -21,3 +20,4 @@
 - [ ] Introduction to UTSU and OpenUtau
 - [ ] Additional languages? (Contribs appreciated)
 - [ ] "Reference" tab (keyboard shortcuts, etc)
+- [ ] Basic CV UTAU voicebank recording and oto tutorial

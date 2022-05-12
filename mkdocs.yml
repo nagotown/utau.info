@@ -13,9 +13,7 @@ nav:
       - Types: start/vbtypes.md
       - Downloading: start/vbdownload.md
       - Loading: start/vbloading.md
-      - Making: start/vbmaking.md
     - USTs:
-      - UI Reference: start/uireference.md
       - Adding Notes: start/notes.md
       - Flags: start/flags.md
       - Tuning: start/tuning.md
