@@ -17,7 +17,7 @@
       - [ ] Tuning
 - [ ] Oto tutorial or compile oto tutorials by others
 - [ ] Add more resources
-- [ ] Add contact link / mail
+- [X] Add contact link / mail
 - [ ] Introduction to UTSU and OpenUtau
 - [ ] Additional languages? (Contribs appreciated)
 - [ ] "Reference" tab (keyboard shortcuts, etc)

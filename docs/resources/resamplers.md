@@ -74,6 +74,12 @@ By Ackie Sound.
 - [Direct DL](https://ackiesound.ifdef.jp/data/vs4u141.zip)
 - [Homepage](https://ackiesound.ifdef.jp/download.html)
 
+### presamp
+By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling.
+
+- [Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar477661)
+
+
 ## WORLD Based Resamplers
 
 Resamplers that use WORLD.
