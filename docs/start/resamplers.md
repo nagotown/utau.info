@@ -4,8 +4,8 @@ A resampler is an engine for UTAU --- The sound of your voicebank can change in 
 
 ## Options
 
-Popular resamplers include the default, [doppeltler](/resources/resamplers/#doppeltler), [moresampler](/resources/resamplers/#moresampler), [TIPS](/resources/resamplers/#tips), and [f2resamp](/resources/resamplers/#f2resamp).
-A list of resamplers and their (eventually) qualities can be viewed [here](/resources/resamplers/).
+Popular resamplers include the default resampler, [doppeltler](/resources/resamplers/#doppeltler), [moresampler](/resources/resamplers/#moresampler), and [f2resamp](/resources/resamplers/#f2resamp).
+A list of resamplers and their qualities (eventually) can be viewed [here](/resources/resamplers/).
 
 ## Installing
 

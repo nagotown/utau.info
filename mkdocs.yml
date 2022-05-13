@@ -1,6 +1,8 @@
 site_name: utau.info
 nav:
-  - Home: index.md
+  - Home: 
+    - index.md
+    - Changelog: changelog.md
   - Starting UTAU: 
     - Start:
       - Introduction: start/intro.md
@@ -33,6 +35,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.expand
+    - navigation.indexes
   palette: 
     - scheme: slate 
       primary: deep purple
