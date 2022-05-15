@@ -1,8 +1,8 @@
-# Voicebank Types
+# Voicebank Types (Japanese)
 
 In UTAU, there are various formats of voicebanks. Each of them are used differently.
 
-Each note is represented by 1 mora. A mora is one consonant-vowel pair, or a single vowel. Most voicebanks use kana aliasing, which uses Japanese characters.
+Each note is represented by 1 mora. A mora is one consonant-vowel pair, or a single vowel. Most Japanese voicebanks use kana aliasing, which also uses Japanese characters.
 
 There are romaji (romanization of japanese characters) aliased voicebanks, but the standard is to use kana aliasing.
 
@@ -12,21 +12,44 @@ The way that voicebank formats are named is by how you type the notes in the pia
 
 For example, `C` represents a consonant, and `V` represents a vowel.
 
-## CV
+!!! info
+
+    It's recommended to start with Japanese because it's the easiest to use, but there are many languages that can be used in UTAU!
+
+
+### CV
 
 Consonant-Vowel notes  
 
+CV only has CV and Vs. It's the most simple and easy to use format.
+
 [`か`] [`え`] [`る`] [`の`] [`う`] [`た`] [`が`]
 
-## VCV
+[`ka`] [`e`] [`ru`] [`no`] [`u`] [`ta`] [`ga`] (romaji)
+
+### VCV
 
 Vowel-Consonant-Vowel notes
 
+VCV has starting CV, VCV, V, VV, and ending Vs.
+
 [`- か`] [`a え`] [`e る`] [`u の`] [`o う`] [`u た`] [`a が`] [`a R`]
 
-## CVVC
+[`- ka`] [`a e`] [`e ru`] [`u no`] [`o u`] [`u ta`] [`a ga`] [`a R`] (romaji)
+
+### CVVC
 
 Consonant-Vowel Vowel-Consonant notes
 
+CVVC has CV, V, VV, and VC. Starting CV, V, and ending Vs are optional.
+
 [`か`] [`a え`] [`e r`] [`る`] [`u n`] [`の`] [`o う`] [`u t`] [`た`] [`a g`] [`が`]
+
+[`ka`] [`a e`] [`e r`] [`ru`] [`u n`] [`no`] [`o u`] [`u t`] [`ta`] [`a g`] [`ga`] (romaji)
+
+or
+
+[`- か`] [`a え`] [`e r`] [`る`] [`u n`] [`の`] [`o う`] [`u t`] [`た`] [`a g`] [`が`] [`a R`]
+
+[`- ka`] [`a e`] [`e r`] [`ru`] [`u n`] [`no`] [`o u`] [`u t`] [`ta`] [`a g`] [`ga`] [`a R`] (romaji)
 
