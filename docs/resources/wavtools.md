@@ -26,3 +26,8 @@ By m13253. Crossplatform Wavtool.
 By Ying-Chun Liu. Wavtool for Linux.
 
 - [latest](https://osdn.net/projects/wavtool-pl/)
+
+## PyWavTool
+By Delta. Python based wavtool.
+
+- [GitHub](https://github.com/delta-kimigatame/PyWavTool)
