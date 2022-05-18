@@ -150,7 +150,7 @@ By Zany. tn_fnds edited to use HARVEST F0 estimation.
 
 - [BowlRoll](https://bowlroll.net/file/203018)
 
-## PyRwu
-By Delta. Name comes from "Py Resampler by world for utau".
+### PyRwu
+By Delta. Full name is "Py Resampler by world for utau".
 
 - [GitHub](https://github.com/delta-kimigatame/PyRwu)

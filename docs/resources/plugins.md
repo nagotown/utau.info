@@ -14,7 +14,7 @@ By nmasao. For regenerating frq files.
 ## autoCVVC
 By Delta. Automates turning CV notes into CVVC notes.
 
-- [Latest](https://delta-kimigatame.hatenablog.jp/entry/ar1172141)
+- [Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar1172141)
 
 ## Extended Pitch Editor
 By Zteer.
@@ -41,3 +41,8 @@ By Ackie Sound. Reads VocalShifter project / WAV file and applies the pitch.
 By **[oatsu](https://github.com/oatsu-gh)**. NNSVS ported to UTAU as a plugin.
 
 - [GitHub](https://github.com/oatsu-gh/ENUNU)
+
+## context-n
+By KLAD. Changes `ん` to match the next note. (n, ng, m variants)
+
+- [GitHub](https://github.com/adlez27/context-n)

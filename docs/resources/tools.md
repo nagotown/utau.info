@@ -1,17 +1,22 @@
 ## SetParam
 By nwp8861. For configuring the oto.ini.
 
-- [Latest](https://osdn.net/users/nwp8861/pf/setParam/files/)
+- [OSDN](https://osdn.net/users/nwp8861/pf/setParam/files/)
 
 ## OREMO
 By nwp8861. For recording UTAU voicebanks.
 
-- [Latest](https://osdn.net/users/nwp8861/pf/OREMO/files/)
+- [OSDN](https://osdn.net/users/nwp8861/pf/OREMO/files/)
 
 ## akorin
 By KLAD. Crossplatform OREMO alternative. For OSes other than Windows, you must build it from source.
 
 - [GitHub](https://github.com/adlez27/akorin)
+
+## WavConfigTool
+By Heiden.BZR. For configuring the oto.ini.
+
+- [GitHub](https://github.com/HeidenBZR/WavConfigTool)
 
 ## Speedwagon
 By Custom.Maid. Software for quickly regenerating frqs.
