@@ -9,4 +9,4 @@ All the main concepts of UTAU should be taught in this guide.
 
 !!! info
 
-    You can view [Resources](/resources/general) for links to Voicebanks, USTs, and more!
+    You can view [Resources](/resources/general/) for links to Voicebanks, USTs, and more!
