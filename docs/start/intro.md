@@ -1,11 +1,11 @@
 ## What is UTAU?
 
-UTAU is a free singing synthesis program released in 2008. There are many voicebanks made for it.
+UTAU is a freeware singing synthesis program released in 2008, similar to VOCALOID. Unlike VOCALOID, creating voicebanks for it is free and can be done by anyone. Because of this, the community has provided many voicebanks that support singing in many languages.
 
 ## What is this website?
 
-This page aims to be an updated beginner-friendly resource for new UTAU users!  
-All the main concepts of UTAU should be taught in this guide.
+`utau.info` aims to be an updated beginner-friendly resource for new UTAU users!  
+All the important concepts of using UTAU will eventually be taught in this guide.
 
 !!! info
 
