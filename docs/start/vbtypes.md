@@ -2,9 +2,9 @@
 
 In UTAU, there are various formats of voicebanks. Each of them are used differently.
 
-Each note is represented by 1 mora. A mora is one consonant-vowel pair, or a single vowel. Most Japanese voicebanks use kana aliasing, which also uses Japanese characters.
+Each note is represented by 1 mora. A mora is basically one syllable; it can be a consonant-vowel pair [`ka`], or a single vowel [`a`]. In some cases Japanese uses C-C-V syllables [`sha`], [`nya`], and these are treated the same as normal CV notes. 
 
-There are romaji (romanization of japanese characters) aliased voicebanks, but the standard is to use kana aliasing.
+Most Japanese voicebanks use kana aliasing, which uses Japanese characters. There are romaji (romanization of japanese characters) aliased voicebanks, but the standard is to use kana aliasing. Because of this, it is recommended (but not required!) to learn to read kana when using Japanese voicebanks.
 
 Aliasing is how each mora is registered in the oto.ini, which is the configuration file for UTAU voicebanks.
 
@@ -21,7 +21,7 @@ For example, `C` represents a consonant, and `V` represents a vowel.
 
 Consonant-Vowel notes  
 
-CV only has CV and Vs. It's the most simple and easy to use format.
+CV only has CV and Vs. It's the only format UTAU originally had, and is simple and easy to use.
 
 [`か`] [`え`] [`る`] [`の`] [`う`] [`た`] [`が`]
 
@@ -31,7 +31,7 @@ CV only has CV and Vs. It's the most simple and easy to use format.
 
 Vowel-Consonant-Vowel notes
 
-VCV has starting CV, VCV, V, VV, and ending Vs.
+VCV has starting CV, VCV, V, and VV. Ending Vs are common but not required.
 
 [`- か`] [`a え`] [`e る`] [`u の`] [`o う`] [`u た`] [`a が`] [`a R`]
 
