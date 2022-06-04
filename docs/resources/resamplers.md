@@ -76,6 +76,7 @@ By Ackie Sound.
 
 ### presamp
 By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling.
+Sometimes, config files for presamp will be included with non-Japanese banks to improve ease of use. 
 
 - [Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar477661)
 
