@@ -13,7 +13,8 @@
 - [UTAU Voicebank Distribution tag on NicoNico](https://www.nicovideo.jp/tag/UTAU%E9%9F%B3%E6%BA%90%E9%85%8D%E5%B8%83%E6%89%80%E3%83%AA%E3%83%B3%E3%82%AF)
 
 ## USTs
-Each of these people have their own rules that they would like to be followed when using their USTs; be sure to read and follow them.
+Each of these people have their own rules for using their USTs; be sure to read and follow them.
+
 - [half a head](https://half-a-head.tumblr.com/USTs)
 - [nmasao1](https://sites.google.com/site/utauust/)
 - [Ekkoberry](http://www.kiichigo.utau.us/ust.html)
