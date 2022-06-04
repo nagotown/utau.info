@@ -12,7 +12,9 @@ You may also need to change the units of measurement for UTAU to function correc
 
 ## Installing Japanese Keyboard (Recommended)
 
-If you would like to type into UTAU easier, you may want to install the Japanese keyboard. To add the Japanese keyboard, go to Settings and navigate to `Time and Language > Language > Keyboard > Preferred Languages > Add a language`. Then, search for Japanese and select it. Unselect all the optional language features.
+If you would like to type lyrics into UTAU easier, you may want to install the Japanese keyboard. To add the Japanese keyboard, go to Settings and navigate to `Time and Language > Language > Keyboard > Preferred Languages > Add a language`. Then, search for Japanese and select it. Unselect all the optional language features. After that, you can press `Shift+ALT` to switch keyboard layouts, and press `Shift+~` to change between romaji and hiragana output.
+
+If you are unable to type in romaji and each key seems to be giving you a random character, search for `Japanese IME settings` in Windows, and uncheck `Use Kana input for hardware keyboard`.
 
 ## Downloading
 
