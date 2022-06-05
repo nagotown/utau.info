@@ -1,6 +1,6 @@
-!!! note To-do
+!!! note 
 
-        Add information about frq files and wavtools
+        To-do: Add information about frq files and wavtools
   
 
 ## What is a Resampler?
