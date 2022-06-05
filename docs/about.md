@@ -6,6 +6,10 @@ This website is based on [utau.us](https://utau.us), which has gone dormant and 
 
 Contributions are welcome!
 
+## Contributors
+
+This site and its content is currently maintained by [nago](https://twitter.com/nagotown) and [PSP](https://twitter.com/amalgamidol).
+
 ## Contact
 
 Mail: hello♪utau.info
