@@ -8,7 +8,7 @@ Contributions are welcome!
 
 ## Contributors
 
-This site and its content is currently maintained by [nago](https://twitter.com/nagotown) and [PSP](https://twitter.com/amalgamidol).
+This site and its content is currently maintained by [nago](https://github.com/nagotown) and [PSP](https://twitter.com/amalgamidol).
 
 ## Contact
 
