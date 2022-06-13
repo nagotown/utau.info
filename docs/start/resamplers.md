@@ -7,7 +7,9 @@
 
 A resampler is an application that acts as a [vocoder](https://en.wikipedia.org/wiki/Vocoder) for UTAU - that is, it processes the raw samples of a voicebank so that they synthesize properly.
 
-Each resampler processes samples in a different way, and so some suit certain voicebanks more than others. For example, one resampler may handle breathy or whispery samples better than others, while another might make high notes sound more nasally. Voicebanks usually have recommended resamplers noted in their readme.
+Each resampler processes samples in a different way, and so some suit certain voicebanks more than others. For example, one resampler may handle breathy or whispery samples better than others, while another might make high notes sound more nasally.
+
+Changing the resampler isn't necessary for someone just starting to use UTAU. However, voicebanks usually have recommended resamplers noted in their readme that are not the default `resampler.exe`, and you can greatly improve the quality of the vocals by trying out other resamplers.
 
 ## Options
 
