@@ -18,9 +18,9 @@ If you are unable to type in romaji and each key seems to be giving you a random
 
 ## Downloading
 
-To download the latest version of UTAU, click `v0.4.18e インストーラ` on [UTAU's Homepage](http://utau2008.xrea.jp/).
+To download the latest version of UTAU, click `v0.4.18e インストーラ` on [UTAU's Homepage](http://utau2008.xrea.jp/). Extract `utau0418e-inst.zip` with your preferred program and click the EXE.
 
-Because UTAU is shareware, there is a paid version that you can purchase to support the developer, but most of the community uses the free version. The differences between the two are pretty small. More information can be found [here](http://utau.us/share.html).
+Because UTAU is shareware, there is a paid version that you can purchase to support the developer, but most of the community uses the free version. The differences between the two are pretty small and mostly useful for more advanced users. More information can be found [here](http://utau.us/share.html).
 
 ## Installation
 
