@@ -6,8 +6,16 @@ Resamplers created by Ameya.
 ### resampler
 Comes with each UTAU version.
 
+<audio controls>
+  <source src="/audio/resamplers/resampler.wav" type="audio/wav">
+</audio>
+
 ### doppeltler
 Remake of resampler.
+
+<audio controls>
+  <source src="/audio/resamplers/doppeltler009.wav" type="audio/wav">
+</audio>
 
 - 009 / [Tweet](https://twitter.com/ameyaP_/status/1233345865596588033) / [DL](http://utau2008.xrea.jp/2020/engine/)
 - 008 / [Tweet]() / [DL](http://utau2008.xrea.jp/2020/engine/)
@@ -19,11 +27,19 @@ Remake of resampler.
 ### fresamp
 Stands for **f**rame**resamp**ler.
 
+<audio controls>
+  <source src="/audio/resamplers/fresamp014.wav" type="audio/wav">
+</audio>
+
 - 014 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp014.zip)
 - 011 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp011.zip)
 
 ### f2resamp
 Remake of fresamp.
+
+<audio controls>
+  <source src="/audio/resamplers/f2resamp005.wav" type="audio/wav">
+</audio>
 
 - 005 / [Tweet](https://twitter.com/ameyaP_/status/1233345866779357184) / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp005.zip)
 - 004 / [Tweet](https://twitter.com/ameyaP_/status/1231926945023029248) / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp004.zip)
@@ -34,15 +50,27 @@ Remake of fresamp.
 ### phavoco
 Stands for **pha**se**voco**der.
 
+<audio controls>
+  <source src="/audio/resamplers/phavoco.wav" type="audio/wav">
+</audio>
+
 - 010 / [DL](http://utau2008.xrea.jp/downloads/phavoco010.zip)
 
 ### phaavoco
 Remake of phavoco. Originally was going to be named phävoco/phaävoco, but Ameya opted for phaavoco to prevent filename issues.
 
+<audio controls>
+  <source src="/audio/resamplers/phaavoco.wav" type="audio/wav">
+</audio>
+
 - 001 / [Tweet](https://twitter.com/ameyaP_/status/1235532652939116545) / [Direct DL](http://utau2008.xrea.jp/2020/engine/phaavoco001.zip)
 
 ### model4
 Unreleased. Makes random notes significantly quieter. Creates `.frc` files.
+
+<audio controls>
+  <source src="/audio/resamplers/model4.wav" type="audio/wav">
+</audio>
 
 ## Independent Resamplers
 
@@ -51,25 +79,45 @@ Resamplers created by the community.
 ### moresampler
 By Kanru Hua. Can also be used as a wavtool as long as the resampler is also set to moresampler.
 
+<audio controls>
+  <source src="/audio/resamplers/moresampler.wav" type="audio/wav">
+</audio>
+
 - 0.8.4 / [BowlRoll](https://bowlroll.net/file/139123)
 
 ### macres
 By titinko. Crossplatform resampler.
+
+<audio controls>
+  <source src="/audio/resamplers/macres.wav" type="audio/wav">
+</audio>
 
 - [GitHub](https://github.com/titinko/macres)
 
 ### TIPS
 By ScientistB. Good with soft voicebanks.
 
+<audio controls>
+  <source src="/audio/resamplers/TIPS.wav" type="audio/wav">
+</audio>
+
 - [Homepage](http://scientistb.web.fc2.com/program/)
 
 ### bkh01
 By Zteer.
 
+<audio controls>
+  <source src="/audio/resamplers/bkh01.wav" type="audio/wav">
+</audio>
+
 - [0.55](http://z-server.game.coocan.jp/utau/utautop.html#bkh01)
 
 ### VS4U (VocalShifter4UTAU)
 By Ackie Sound.
+
+<audio controls>
+  <source src="/audio/resamplers/VS4U.wav" type="audio/wav">
+</audio>
 
 - [Direct DL](https://ackiesound.ifdef.jp/data/vs4u141.zip)
 - [Homepage](https://ackiesound.ifdef.jp/download.html)
@@ -93,20 +141,36 @@ By Ameya.
 ### world4utau (Zany Edit)
 By Zany.
 
+<audio controls>
+  <source src="/audio/resamplers/world4utau_zany.wav" type="audio/wav">
+</audio>
+
 - [BowlRoll](https://bowlroll.net/file/203064)
 
 ### SpaceWorld
 By LovelyA72. Updated fork of Zany's w4u.
+
+<audio controls>
+  <source src="/audio/resamplers/SpaceWorld.wav" type="audio/wav">
+</audio>
 
 - [GitHub](https://github.com/LovelyA72/SpaceWorld/releases)
 
 ### WARP
 By Custom.Maid.
 
+<audio controls>
+  <source src="/audio/resamplers/WARP.wav" type="audio/wav">
+</audio>
+
 - 2013-01-10 / [Post](http://custom-made.seesaa.net/article/312530509.html) / [DL](http://www1.axfc.net/uploader/so/2750034)
 
 ### EFB-GT
 By Custom.Maid.
+
+<audio controls>
+  <source src="/audio/resamplers/EFB-GT.wav" type="audio/wav">
+</audio>
 
 === "Latest"
     - 2013-01-10 / [Post](http://custom-made.seesaa.net/article/312529786.html) / [DL](http://www1.axfc.net/uploader/so/2750014)
@@ -124,6 +188,10 @@ By Custom.Maid.
 
 ### EFB-PB
 By Custom.Maid. Discontinued, but official links are still accessible.
+
+<audio controls>
+  <source src="/audio/resamplers/EFB-PB.wav" type="audio/wav">
+</audio>
 
 === "Latest"
     - 2012-07-21 / [Post](http://custom-made.seesaa.net/article/284788132.html) / [DL](http://www1.axfc.net/uploader/Sc/so/367590)
@@ -144,10 +212,18 @@ By Zany. Edit of WARP/EFB-GT.
 ### tn_fnds
 By Zteer.
 
+<audio controls>
+  <source src="/audio/resamplers/tn_fnds.wav" type="audio/wav">
+</audio>
+
 - [0.0.9](http://z-server.game.coocan.jp/utau/utautop.html#tn_fnds)
 
 ### young3
 By Zany. tn_fnds edited to use HARVEST F0 estimation.
+
+<audio controls>
+  <source src="/audio/resamplers/young3.wav" type="audio/wav">
+</audio>
 
 - [BowlRoll](https://bowlroll.net/file/203018)
 
