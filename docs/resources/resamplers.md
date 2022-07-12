@@ -1,5 +1,7 @@
 # Resampler Directory
 
+The audio examples provided are using the voicebank [Hitsuboku Kumi Act 4](https://cubialpha.wixsite.com/koomstar/act4). UST by [番煎P](https://nerikirilover.jimdofree.com/ust-楽曲dl/歌唱サンプル用ust/)
+
 ## Official Resamplers
 Resamplers created by Ameya.
 
@@ -18,21 +20,34 @@ Remake of resampler.
 </audio>
 
 - 009 / [Tweet](https://twitter.com/ameyaP_/status/1233345865596588033) / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 008 / [Tweet]() / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 007 / [Tweet]() / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 006 / [Tweet]() / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 005 / [Tweet]() / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 004 / [Tweet]() / [DL](http://utau2008.xrea.jp/2020/engine/)
+- 008 / [DL](http://utau2008.xrea.jp/2020/engine/)
+- 007 / [DL](http://utau2008.xrea.jp/2020/engine/)
+- 006 / [DL](http://utau2008.xrea.jp/2020/engine/)
+- 005 / [DL](http://utau2008.xrea.jp/2020/engine/)
+- 004 / [DL](http://utau2008.xrea.jp/2020/engine/)
 
 ### fresamp
 Stands for **f**rame**resamp**ler.
 
+- 011 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp011.zip)
 <audio controls>
-  <source src="/audio/resamplers/fresamp014.wav" type="audio/wav">
+  <source src="/audio/resamplers/fresamp011.wav" type="audio/wav">
+</audio>
+
+- 012 / Private
+<audio controls>
+  <source src="/audio/resamplers/fresamp012.wav" type="audio/wav">
+</audio>
+
+- 013 / Private
+<audio controls>
+  <source src="/audio/resamplers/fresamp013.wav" type="audio/wav">
 </audio>
 
 - 014 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp014.zip)
-- 011 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp011.zip)
+<audio controls>
+  <source src="/audio/resamplers/fresamp014.wav" type="audio/wav">
+</audio>
 
 ### f2resamp
 Remake of fresamp.
@@ -66,7 +81,7 @@ Remake of phavoco. Originally was going to be named phävoco/phaävoco, but Amey
 - 001 / [Tweet](https://twitter.com/ameyaP_/status/1235532652939116545) / [Direct DL](http://utau2008.xrea.jp/2020/engine/phaavoco001.zip)
 
 ### model4
-Unreleased. Makes random notes significantly quieter. Creates `.frc` files.
+A beta model that was only distributed to certain people. Makes random notes significantly quieter. Creates `.frc` files.
 
 <audio controls>
   <source src="/audio/resamplers/model4.wav" type="audio/wav">
@@ -77,7 +92,7 @@ Unreleased. Makes random notes significantly quieter. Creates `.frc` files.
 Resamplers created by the community.
 
 ### moresampler
-By Kanru Hua. Can also be used as a wavtool as long as the resampler is also set to moresampler.
+By Kanru Hua. Can also be used as a wavtool.
 
 <audio controls>
   <source src="/audio/resamplers/moresampler.wav" type="audio/wav">
@@ -119,14 +134,15 @@ By Ackie Sound.
   <source src="/audio/resamplers/VS4U.wav" type="audio/wav">
 </audio>
 
-- [Direct DL](https://ackiesound.ifdef.jp/data/vs4u141.zip)
 - [Homepage](https://ackiesound.ifdef.jp/download.html)
+Scroll down to **UTAU向けエンジン VS4U** and click the **ダウンロード** button.
 
 ### presamp
-By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling.
+By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling. Can be used with whatever resampler or wavtool you want.
 Sometimes, config files for presamp will be included with non-Japanese banks to improve ease of use. 
 
 - [Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar477661)
+- [English setup guide by KLAD](https://tl.tubs.wtf/2021/07/11/presamp-download)
 
 
 ## WORLD Based Resamplers
@@ -207,7 +223,14 @@ By Custom.Maid. Discontinued, but official links are still accessible.
 By Zany. Edit of WARP/EFB-GT.
 
 - EFB-BS / [BowlRoll](https://bowlroll.net/file/218497)
+<audio controls>
+  <source src="/audio/resamplers/EFB-BS.wav" type="audio/wav">
+</audio>
+
 - EFB-BH / [BowlRoll](https://bowlroll.net/file/218498)
+<audio controls>
+  <source src="/audio/resamplers/EFB-BH.wav" type="audio/wav">
+</audio>
 
 ### tn_fnds
 By Zteer.
