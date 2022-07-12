@@ -32,25 +32,25 @@ Stands for **f**rame**resamp**ler.
 - 011 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp011.zip)
 
 <audio controls>
-  <source src="/audio/resamplers/fresamp011.wav" type="audio/wav">
+  <source src="/audio/resamplers/fresamp11.wav" type="audio/wav">
 </audio>
 
 - 012 / Private
 
 <audio controls>
-  <source src="/audio/resamplers/fresamp012.wav" type="audio/wav">
+  <source src="/audio/resamplers/fresamp12.wav" type="audio/wav">
 </audio>
 
 - 013 / Private
 
 <audio controls>
-  <source src="/audio/resamplers/fresamp013.wav" type="audio/wav">
+  <source src="/audio/resamplers/fresamp13.wav" type="audio/wav">
 </audio>
 
 - 014 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp014.zip)
 
 <audio controls>
-  <source src="/audio/resamplers/fresamp014.wav" type="audio/wav">
+  <source src="/audio/resamplers/fresamp14.wav" type="audio/wav">
 </audio>
 
 ### f2resamp
@@ -139,7 +139,7 @@ By Ackie Sound.
 </audio>
 
 - [Homepage](https://ackiesound.ifdef.jp/download.html)
-Scroll down to **UTAU向けエンジン VS4U** and click the **ダウンロード** button.
+Scroll down to **UTAU向けエンジン VS4U** and click **ダウンロード**.
 
 ### presamp
 By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling. Can be used with whatever resampler or wavtool you want.
