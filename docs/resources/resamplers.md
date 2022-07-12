@@ -30,21 +30,25 @@ Remake of resampler.
 Stands for **f**rame**resamp**ler.
 
 - 011 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp011.zip)
+
 <audio controls>
   <source src="/audio/resamplers/fresamp011.wav" type="audio/wav">
 </audio>
 
 - 012 / Private
+
 <audio controls>
   <source src="/audio/resamplers/fresamp012.wav" type="audio/wav">
 </audio>
 
 - 013 / Private
+
 <audio controls>
   <source src="/audio/resamplers/fresamp013.wav" type="audio/wav">
 </audio>
 
 - 014 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp014.zip)
+
 <audio controls>
   <source src="/audio/resamplers/fresamp014.wav" type="audio/wav">
 </audio>
@@ -223,11 +227,13 @@ By Custom.Maid. Discontinued, but official links are still accessible.
 By Zany. Edit of WARP/EFB-GT.
 
 - EFB-BS / [BowlRoll](https://bowlroll.net/file/218497)
+
 <audio controls>
   <source src="/audio/resamplers/EFB-BS.wav" type="audio/wav">
 </audio>
 
 - EFB-BH / [BowlRoll](https://bowlroll.net/file/218498)
+
 <audio controls>
   <source src="/audio/resamplers/EFB-BH.wav" type="audio/wav">
 </audio>
