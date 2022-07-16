@@ -1,6 +1,6 @@
 # utau.info
 
-![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Futau.info) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/nagotown/utau.info/main)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Futau.info)](https://utau.info) [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/nagotown/utau.info/main)](https://github.com/nagotown/utau.info/commits/main)
 
 A work-in-progress beginner's guide for UTAU
 
