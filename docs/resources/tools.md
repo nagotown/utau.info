@@ -20,6 +20,13 @@ By team-aie. In development.
 
 - [GitHub](https://github.com/team-aie/app)
 
+### Bokumo
+
+By kylejlin. Web browser alternative.
+
+- [Homepage](https://kylejlin.github.io/bokumo/)
+- [GitHub](https://github.com/kylejlin/bokumo)
+
 ## OTO Configuration
 
 Tools for configuring UTAU voicebanks.
@@ -42,12 +49,25 @@ By sdercolin. In development.
 
 - [GitHub](https://github.com/sdercolin/vlabeler)
 
+### Snatcit
+
+By kylejlin. Web browser alternative.
+
+- [Homepage](https://kylejlin.github.io/snatcit)
+- [GitHub](https://github.com/kylejlin/snatcit)
+
 ### mkototemp (MakeOtoTemp)
 
 By Delta. Automatically generates oto.ini for CVVC voicebanks. May require configuration.
 
 - [Mediafire](http://www.mediafire.com/file/br24scnv4tndm5u/mkototemp0500.zip/file) (Stable)
 - [GitHub](https://github.com/delta-kimigatame/MakeOtoTemp) (Latest)
+
+### KiraOtoToolbox
+
+By shine_5402. Various tools for editing the oto.ini.
+
+- [GitHub](https://github.com/shine5402/KiraOtoToolbox)
 
 ## Other
 
