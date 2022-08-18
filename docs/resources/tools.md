@@ -69,6 +69,13 @@ By shine_5402. Various tools for editing the oto.ini.
 
 - [GitHub](https://github.com/shine5402/KiraOtoToolbox)
 
+### oto.iniまとめて改造ましーん
+
+By まいこ. Various tools for editing the oto.ini. Japanese only.
+
+- [Homepage](https://ameblo.jp/maiko3utau/entry-12596814319.html)
+- [OneDrive](https://1drv.ms/f/s!AgzVdoePq73CjFvQnjU067_tHeCA)
+
 ## Other
 
 ### UTAU TextEncode Convert Helper
@@ -89,3 +96,10 @@ By Ackie Sound. Vocal editor that can edit pitch, DYN(Dynamics), formant, pan, t
 
 - [Direct DL](https://ackiesound.ifdef.jp/data/vshifterle343.zip)
 - [Homepage](https://ackiesound.ifdef.jp/download.html)
+
+### MinimizeVB
+
+By アステル. Minimizes the file size of a voicebank before distribution and makes an installer.
+
+- [Homepage (Version 2)](https://sites.google.com/view/asterisk-utau/plugins/minimizevb2)
+- [Homepage (Version 1)](https://sites.google.com/view/asterisk-utau/plugins/minimizevb)
