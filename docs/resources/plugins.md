@@ -42,6 +42,11 @@ By **[oatsu](https://github.com/oatsu-gh)**. NNSVS ported to UTAU as a plugin.
 
 - [GitHub](https://github.com/oatsu-gh/ENUNU)
 
+## EnuPitch
+By oatsu-gh. Transfers an ENUNU model's pitch to UTAU.
+
+- [GitHub](https://github.com/oatsu-gh/EnuPitch)
+
 ## context-n
 By KLAD. Changes `ん` to match the next note. (n, ng, m variants)
 
