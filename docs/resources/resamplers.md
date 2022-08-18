@@ -176,6 +176,11 @@ By LovelyA72. Updated fork of Zany's w4u.
 
 - [GitHub](https://github.com/LovelyA72/SpaceWorld/releases)
 
+### NeoWorld
+By LovelyA72. Updated fork of Zany's w4u for crossplatform. Experimental.
+
+- [GitHub](https://github.com/LovelyA72/NeoWorld)
+
 ### WARP
 By Custom.Maid.
 
@@ -260,3 +265,8 @@ By Zany. tn_fnds edited to use HARVEST F0 estimation.
 By Delta. Full name is "Py Resampler by world for utau".
 
 - [GitHub](https://github.com/delta-kimigatame/PyRwu)
+
+### lessampler
+By YuzukiTsuru. In development.
+
+- [GitHub](https://github.com/YuzukiTsuru/lessampler)
