@@ -68,3 +68,4 @@ markdown_extensions:
   - meta
 plugins:
   - tags
+  - search
