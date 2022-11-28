@@ -1,5 +1,6 @@
 | Note | Date |
 |-|-|
+| Added [Plugins](/start/plugins/) page in Starting UTAU | 11/27/2022 |
 | Fleshed out [Resamplers](start/resamplers/) page | 6/4/2022 |
 | Cleaned up glossary and other pages | 6/3/2022 |
 | Add more items to "Starting UTAU" nav (pages not complete) | 5/11/2022 |
