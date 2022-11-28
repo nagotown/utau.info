@@ -16,7 +16,7 @@ nav:
       - Downloading: start/vbdownload.md
       - Loading: start/vbloading.md
     - USTs:
-      - Adding Notes: start/notes.md
+      - Adding Notes: start/ustcreation.md
       - Flags: start/flags.md
       - Tuning: start/tuning.md
   - Resources:
