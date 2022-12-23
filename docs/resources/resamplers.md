@@ -270,3 +270,8 @@ By Delta. Full name is "Py Resampler by world for utau".
 By YuzukiTsuru. In development.
 
 - [GitHub](https://github.com/YuzukiTsuru/lessampler)
+
+### straycat
+By UtaUtaUtau. In development.
+
+- [GitHub](https://github.com/UtaUtaUtau/straycat)
