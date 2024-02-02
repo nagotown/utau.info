@@ -27,4 +27,8 @@ Each of these people have their own rules for using their USTs; be sure to read 
 
 - [Yin's Oto Tutorial](https://yinsototutorial.weebly.com/)
 - [namazuworks](https://namazuworks.github.io/index.html)
-- [UTAU Voicebank Production Wiki](https://w.atwiki.jp/vbmaker/)
+- [UTAU Voicebank Production Wiki](https://w.atwiki.jp/vbmaker/) :flag_jp:
+- [UTAU User Mutual Aid Association](https://w.atwiki.jp/utaou/) :flag_jp:
+- [Utau Tutorials](https://utaututorials.neocities.org/) 
+- [Utau France](https://utaufrance.com/) :flag_fr:
+- [utau.us](https://utau.us)
