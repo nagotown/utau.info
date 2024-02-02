@@ -27,6 +27,18 @@ By kylejlin. Web browser alternative.
 - [Homepage](https://kylejlin.github.io/bokumo/)
 - [GitHub](https://github.com/kylejlin/bokumo)
 
+### Recstar
+
+By sdercolin. In development.
+
+- [GitHub](https://github.com/sdercolin/recstar)
+
+### RecBoard
+
+By KoharuYuzuki. In development.
+
+- [GitHub](https://github.com/KoharuYuzuki/RecBoard)
+
 ## OTO Configuration
 
 Tools for configuring UTAU voicebanks.
