@@ -1,4 +1,5 @@
 site_name: utau.info
+site_url: https://utau.info
 nav:
   - Home: 
     - index.md
@@ -25,8 +26,13 @@ nav:
     - Wavtools: resources/wavtools.md
     - Plugins: resources/plugins.md
     - Tools: resources/tools.md
+    - Reclists: 
+      - resources/reclists/index.md
+      - Japanese: resources/reclists/japanese.md
+#      - Chinese: resources/reclists/chinese.md
+#      - Korean: resources/reclists/korean.md
+      - English: resources/reclists/english.md
   - About: about.md
-  - To-do: todo.md
 theme:
   name: material
   favicon: ../img/favicon.png
@@ -67,5 +73,7 @@ markdown_extensions:
       alternate_style: true 
   - meta
 plugins:
-  - tags
-  - search
+  - tags 
+  - search 
+  - blog
+  - social
