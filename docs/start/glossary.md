@@ -11,3 +11,4 @@
 | CV / Single Sound | 単独音 | Consonant-Vowel formatted voicebank |
 | VCV / Continuous Sound | 連続音 | Vowel-Consonant-Vowel formatted voicebank |
 | CVVC |  | Consonant-Vowel Vowel-Consonant formatted voicebank |
+| Reclist | 録音リスト | Short for Recording List. |
