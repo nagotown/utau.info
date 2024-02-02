@@ -103,6 +103,7 @@ By Kanru Hua. Can also be used as a wavtool.
 </audio>
 
 - 0.8.4 / [BowlRoll](https://bowlroll.net/file/139123)
+- [Website (Archived)](https://web.archive.org/web/20181008050145/https://webhost.engr.illinois.edu/~khua5/index.php/moresampler/)
 
 ### macres
 By titinko. Crossplatform resampler.
