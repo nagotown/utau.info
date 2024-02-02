@@ -6,26 +6,49 @@ A work-in-progress beginner's guide for UTAU
 
 ## To-do
 
-- [ ] Finish basic "Getting Started" tutorial ([Starting UTAU](https://utau.info/start/intro/))
-    - [ ] Start
-        - [X] Intro
-        - [ ] Glossary
-    - [ ] Setup
-        - [X] Installation
-        - [ ] Resamplers
-        - [ ] Plugins
-    - [ ] Voicebanks
-        - [ ] Types
-        - [ ] Downloading
-        - [ ] Loading
-    - [ ] USTs
-      - [ ] Making a MIDI / UST
-      - [ ] Adding Notes
-      - [ ] Tuning
-- [ ] Oto tutorial or compile oto tutorials by others
-- [ ] Add more resources
-- [X] Add contact link / mail
-- [ ] Introduction to UTSU and OpenUtau
-- [ ] Additional languages? (Contribs appreciated)
-- [ ] "Reference" tab (keyboard shortcuts, etc)
-- [ ] Basic CV UTAU voicebank recording and oto tutorial
+### Getting Started
+
+- [ ] Start
+  - [ ] Intro
+  - [ ] Glossary
+- [ ] Setup
+  - [ ] Installation
+  - [ ] Resamplers
+  - [ ] Plugins
+- [ ] Voicebanks
+  - [ ] Types
+  - [ ] Downloading
+  - [ ] Loading
+- [ ] USTs
+  - [ ] Adding Notes
+  - [ ] Flags
+  - [ ] Tuning
+
+### Resources
+
+- [ ] General
+- [ ] Resamplers
+- [ ] Wavtools
+- [ ] Plugins
+- [ ] Tools
+- [ ] Reclists
+  - [ ] Japanese
+  - [ ] English
+  - [ ] Chinese
+  - [ ] Korean
+- [ ] Keyboard Reference + Tips
+
+### Intermediate Tutorials
+
+- [ ] Making USTs (External)
+- [ ] Recording Voicebanks
+  - [ ] Formats
+  - [ ] General Reading
+  - [ ] Japanese
+  - [ ] Other Languages
+- [ ] Configuring Voicebanks
+  - [ ] Tools
+
+### Maybe / Long-term
+
+- [ ] Translations of content on site
