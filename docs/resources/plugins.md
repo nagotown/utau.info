@@ -17,6 +17,7 @@ By Delta. Automates turning CV notes into CVVC notes.
 - [Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar1172141)
 
 ## Extended Pitch Editor
+
 By Zteer.
 
 - [Latest](http://z-server.game.coocan.jp/utau/utautop.html#pitedit)
@@ -34,7 +35,6 @@ By Canon. Automatically tunes the UST.
 ## VSPitch
 By Ackie Sound. Reads VocalShifter project / WAV file and applies the pitch.
 
-- [Direct DL](https://ackiesound.ifdef.jp/data/vspitch105.zip)
 - [Homepage](https://ackiesound.ifdef.jp/download.html)
 
 ## ENUNU
