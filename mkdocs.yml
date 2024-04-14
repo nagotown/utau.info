@@ -20,6 +20,17 @@ nav:
       - Adding Notes: start/ustcreation.md
       - Flags: start/flags.md
       - Tuning: start/tuning.md
+#  - Making Voicebanks: 
+#    - Introduction: voicebank/intro.md
+#    - Recording: voicebank/recording/record.md
+#    - Oto Configuration:
+#      - voicebank/oto/index.md
+#      - Japanese:
+#        - voicebank/oto/japanese/index.md
+#        - CVVC: voicebank/oto/japanese/cvvc.md
+#      - Chinese:
+#      - Korean:
+#      - English:
   - Resources:
     - General: resources/general.md 
     - Resamplers: resources/resamplers.md
@@ -42,6 +53,9 @@ theme:
     - navigation.tabs
     - navigation.expand
     - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.instant.progress
   palette: 
     - scheme: slate 
       primary: deep purple
