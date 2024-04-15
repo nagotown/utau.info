@@ -43,7 +43,7 @@ nav:
 #      - Chinese: resources/reclists/chinese.md
 #      - Korean: resources/reclists/korean.md
       - English: resources/reclists/english.md
-  - About: about.md
+#  - About: about.md
 theme:
   name: material
   favicon: ../img/favicon.png
@@ -93,4 +93,4 @@ plugins:
   - tags 
   - search 
   - blog
-  - social
+#  - social
