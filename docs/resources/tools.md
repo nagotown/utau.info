@@ -56,6 +56,14 @@ By KoharuYuzuki.
 
 [GitHub](https://github.com/KoharuYuzuki/RecBoard)
 
+### Vocalist
+
+By oookamitai
+
+- MacOS only
+
+[GitHub](https://github.com/ookamitai/Vocalist)
+
 ## OTO Configuration
 
 Tools for configuring UTAU voicebanks.
