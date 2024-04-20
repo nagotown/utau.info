@@ -1,17 +1,11 @@
 # About utau.info
 
-utau.info is a help site for people who want to get into UTAU.
+**utau.info** is a work-in-progress guide made for newcomers to UTAU.
 
-This website is based on [utau.us](https://utau.us), which has gone dormant and is incomplete, so I aim to create a more finished product. (No disrespect to the author. They are aware I am creating this website.)
+This website is based on [utau.us](https://utau.us), an UTAU guide created by cheesum.
 
-Contributions are welcome!
+If you'd like to contribute, you can contact via email or the GitHub repo.
 
-## Contributors
-
-This site and its content is currently maintained by [nago](https://github.com/nagotown) and [PSP](https://twitter.com/amalgamidol).
-
-## Contact
+# Contact
 
 Mail: hello♪utau.info
-
-*Note: Replace ♪ with @.*
