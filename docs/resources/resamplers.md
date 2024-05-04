@@ -19,12 +19,15 @@ Remake of resampler.
   <source src="/audio/resamplers/doppeltler009.wav" type="audio/wav">
 </audio>
 
-- 009 / [Tweet](https://twitter.com/ameyaP_/status/1233345865596588033) / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 008 / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 007 / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 006 / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 005 / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 004 / [DL](http://utau2008.xrea.jp/2020/engine/)
+[:flag_jp: Readme](http://utau2008.xrea.jp/2020/engine/doppeltler_readme.txt) / [:flag_de: Readme](http://utau2008.xrea.jp/2020/engine/doppeltler_readme_de.html) / [:flag_gb: Readme](http://utau2008.xrea.jp/2020/engine/doppeltler_readme_en.txt)
+
+- [Homepage](http://utau2008.xrea.jp/2020/engine/)
+- 009 / [Tweet](https://twitter.com/ameyaP_/status/1233345865596588033) / [Direct DL](http://utau2008.xrea.jp/2020/engine/doppeltler009.zip)
+- 008 / [Direct DL](http://utau2008.xrea.jp/2020/engine/doppeltler008.zip)
+- 007 / [Direct DL](http://utau2008.xrea.jp/2020/engine/doppeltler007.zip)
+- 006 / [Direct DL](http://utau2008.xrea.jp/2020/engine/doppeltler006.zip)
+- 005 / [Direct DL](http://utau2008.xrea.jp/2020/engine/doppeltler005.zip)
+- 004 / [Direct DL](http://utau2008.xrea.jp/2020/engine/doppeltler004.zip)
 
 ### fresamp
 Stands for **f**rame**resamp**ler.
