@@ -40,9 +40,23 @@
 | MG | 0 | 0~100 | Growl |
 | MD | 0 | 0~100 | Distortion |
 
+### doppeltler
+
+Supports g, B, N, P, T flags
+
+| Flag | Default Value | Range | Effect |
+|-|-|-|-|
+| a | 100 | ? | High frequency emphasis rate of the noise component |
+| R | 0 | -100~100 | Backwards. reverse front and back |
+| S | 0 | -100~100 | number of threads |
+| i | 0 | -100~100 | length of the rear fixed area (ms) |
+| v | 0 | -100~100 | consonant velocity of the rear fixed area |
+
 ---
 
 sources for this page
+
 - https://w.atwiki.jp/utaou/pages/41.html
 - http://kenchan22.web.fc2.com/i/utauproperty/utauproperty.html
 - https://web.archive.org/web/20181008050145/https://webhost.engr.illinois.edu/~khua5/index.php/moresampler/
+- http://utau2008.xrea.jp/2020/engine/doppeltler_readme_en.txt
