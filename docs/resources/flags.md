@@ -25,7 +25,9 @@
 | W | ? | ? | Adds robotic sound |
 | G | ? | ? | Regenerates the .frq of the current note |
 
-Source[^1]: https://w.atwiki.jp/utaou/pages/41.html [^2]: http://kenchan22.web.fc2.com/i/utauproperty/utauproperty.html
+Source[^1] [^2]
+
+[^1]: https://w.atwiki.jp/utaou/pages/41.html [^2]: http://kenchan22.web.fc2.com/i/utauproperty/utauproperty.html
 
 ## Individual
 
@@ -42,7 +44,9 @@ Source[^1]: https://w.atwiki.jp/utaou/pages/41.html [^2]: http://kenchan22.web.f
 | MG | 0 | 0~100 | Growl |
 | MD | 0 | 0~100 | Distortion |
 
-Source[^3]: https://web.archive.org/web/20181008050145/https://webhost.engr.illinois.edu/~khua5/index.php/moresampler/
+Source[^3]
+
+[^3]: https://web.archive.org/web/20181008050145/https://webhost.engr.illinois.edu/~khua5/index.php/moresampler/
 
 ### doppeltler
 
@@ -56,4 +60,6 @@ Supports g, B, N, P, T flags
 | i | 0 | -100~100 | length of the rear fixed area (ms) |
 | v | 0 | -100~100 | consonant velocity of the rear fixed area |
 
-Source[^4]: http://utau2008.xrea.jp/2020/engine/doppeltler_readme_en.txt
+Source[^4]
+
+[^4]: http://utau2008.xrea.jp/2020/engine/doppeltler_readme_en.txt
