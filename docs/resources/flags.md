@@ -25,9 +25,10 @@
 | W | ? | ? | Adds robotic sound |
 | G | ? | ? | Regenerates the .frq of the current note |
 
-Source[^1] [^2]
+Source[^1][^2]
 
-[^1]: https://w.atwiki.jp/utaou/pages/41.html [^2]: http://kenchan22.web.fc2.com/i/utauproperty/utauproperty.html
+[^1]: https://w.atwiki.jp/utaou/pages/41.html
+[^2]: http://kenchan22.web.fc2.com/i/utauproperty/utauproperty.html
 
 ## Individual
 
