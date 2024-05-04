@@ -2,6 +2,7 @@
 
 - [UTAU](http://utau2008.xrea.jp/)
 - [Utau-Synth](http://utau-synth.com/index.html)
+    - [Beta 64bit Ver. (Direct DL)](https://utau-synth.com/cgi-bin/dlz.cgi/UTAUSynth100b21.dmg) / [Tweet](https://twitter.com/ameyaP_/status/1735468280306167995)
 - [OpenUTAU](https://github.com/stakira/OpenUtau)
 - [UTSU](https://github.com/titinko/utsu)
 
