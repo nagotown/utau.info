@@ -48,6 +48,13 @@ By oatsu-gh. Transfers an ENUNU model's pitch to UTAU.
 - [GitHub](https://github.com/oatsu-gh/EnuPitch)
 
 ## context-n
+
 By KLAD. Changes `ん` to match the next note. (n, ng, m variants)
 
 - [GitHub](https://github.com/adlez27/context-n)
+
+## PhonemizerOnUtau
+
+By xunmengshe. Allows using OpenUtau phonemizer on Original UTAU.
+
+- [GitHub](https://github.com/xunmengshe/PhonemizerOnUtau)
