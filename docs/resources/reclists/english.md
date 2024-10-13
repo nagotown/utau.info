@@ -79,3 +79,21 @@ Tutorials:
 - [SETPARAM](https://www.youtube.com/watch?v=t_epqCMN7bQ)
 - [USTING](https://www.youtube.com/watch?v=uBvv5uEVF_0)
 - [OUTRODUCTION](https://www.youtube.com/watch?v=yDacqh2Y7wg)
+
+## C+V ARPAsing
+
+English recording method by chevrefee and Biggity_boy.
+
+### Official
+
+[Home Page](https://chevrefee.wordpress.com/veria/)
+
+- [MediaFire (Reclist)](https://www.mediafire.com/file/w4ii6gxdstjhywv/C%2BV_Reclist.txt/file)
+
+- [BowlRoll (Base oto)](https://bowlroll.net/file/324930)
+
+- [Written Guide](https://docs.google.com/document/d/1VTJ1fYsimhj3H7A31XsRmqgiXei04JqWZJ1a3FHmVY4)
+
+- [Video Guide](https://www.youtube.com/watch?v=jeDmqo0wwkU)
+
+- [Multipitch Toolkit](https://bowlroll.net/file/325451)
