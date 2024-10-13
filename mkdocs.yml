@@ -34,6 +34,7 @@ nav:
   - Resources:
     - General: resources/general.md 
     - Resamplers: resources/resamplers.md
+#    - Resampler Flags: resources/flags.md
     - Wavtools: resources/wavtools.md
     - Plugins: resources/plugins.md
     - Tools: resources/tools.md
@@ -94,3 +95,5 @@ plugins:
   - search 
   - blog
 #  - social
+repo_url: https://github.com/nagotown/utau.info
+repo_name: utau.info
