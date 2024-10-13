@@ -94,6 +94,6 @@ plugins:
   - tags 
   - search 
   - blog
-#  - social
+  - social
 repo_url: https://github.com/nagotown/utau.info
 repo_name: utau.info
