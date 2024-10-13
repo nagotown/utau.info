@@ -5,6 +5,12 @@ The wavtool is the component of UTAU that concatenates - or stitches together th
 ## wavtool
 Comes with each UTAU version.
 
+## wavtool64
+
+64bit version of the original wavtool.
+
+- [Home Page](https://utau2008.xrea.jp/2020/engine/)
+
 ## wavtool2
 By nmasao. Ability to use dynamic envelopes.
 
