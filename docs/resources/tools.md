@@ -64,6 +64,14 @@ By oookamitai
 
 [GitHub](https://github.com/ookamitai/Vocalist)
 
+### Rekuta
+
+By atouu
+
+- Android only
+
+[GitHub](https://github.com/atouu/rekuta)
+
 ## OTO Configuration
 
 Tools for configuring UTAU voicebanks.
@@ -148,3 +156,9 @@ By アステル. Minimizes the file size of a voicebank before distribution and 
 [Homepage (Version 2)](https://sites.google.com/view/asterisk-utau/plugins/minimizevb2)
 
 [Homepage (Version 1)](https://sites.google.com/view/asterisk-utau/plugins/minimizevb)
+
+### OpenUtau-Dictionary-Editor
+
+By Cadlaxa
+
+[GitHub](https://github.com/Cadlaxa/OpenUtau-Dictionary-Editor)
