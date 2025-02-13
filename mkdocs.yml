@@ -3,7 +3,7 @@ site_url: https://utau.info
 nav:
   - Home: 
     - index.md
-    - Changelog: changelog.md
+#    - Changelog: changelog.md
   - Starting UTAU: 
     - Start:
       - Introduction: start/intro.md
