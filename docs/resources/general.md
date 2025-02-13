@@ -24,6 +24,7 @@ Each of these people have their own rules for using their USTs; be sure to read 
 - :flag_jp: [UST Distribution tag on NicoNico](https://www.nicovideo.jp/tag/ust%E9%85%8D%E5%B8%83)
 - :flag_jp: [UST Distribution tag on BowlRoll](https://bowlroll.net/file/tag/UST%E9%85%8D%E5%B8%83)
 - [Utaformatix](https://sdercolin.github.io/utaformatix3/) (Tool that converts VSQ/SVP/other formats to UST)
+- :flag_cn: [vsqx.top](https://vsqx.top/)
 
 ## Other UTAU websites
 
