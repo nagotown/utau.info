@@ -90,6 +90,14 @@ By nwp8861.
 
 [OSDN](https://osdn.net/users/nwp8861/pf/setParam/files/)
 
+### LABERU :new:
+
+By Delta. Browser-based.
+
+Can be switched to English by clicking on the burger menu icon and clicking the "ja", then clicking the bottom option.
+
+[Homepage](https://k-uta.jp/laberu/)
+
 ### WavConfigTool
 
 By Heiden.BZR.
@@ -117,7 +125,7 @@ By Delta. Automatically generates oto.ini for CVVC voicebanks. May require confi
 
 By shine_5402. Various tools for editing the oto.ini.
 
-- [GitHub](https://github.com/shine5402/KiraOtoToolbox)
+[GitHub](https://github.com/shine5402/KiraOtoToolbox)
 
 ### oto.iniまとめて改造ましーん
 
@@ -128,6 +136,26 @@ By まいこ. Various tools for editing the oto.ini. Japanese only.
 [OneDrive](https://1drv.ms/f/s!AgzVdoePq73CjFvQnjU067_tHeCA)
 
 ## Other
+
+### GAKUYA :new:
+
+By Delta. Browser-based voicebank packaging tool.
+
+Features:
+
+- Supports OpenUtau's `character.yaml` format
+- UTAU icon file format normalization
+- Encoding normalization
+- Clear `.frq` files
+- Fix audio sample rate
+- Can install as PWA (Website you can install as an app on your phone or computer)
+
+Can be switched to English by clicking on the burger menu icon and clicking the "ja", then clicking the bottom option.
+
+[Homepage](https://k-uta.jp/gakuya/)
+
+[Tweet](https://x.com/delta_kuro/status/1889801049650897105)
+
 
 ### UTAU TextEncode Convert Helper
 
