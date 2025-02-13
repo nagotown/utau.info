@@ -6,6 +6,6 @@ This website is based on [utau.us](https://utau.us), an UTAU guide created by ch
 
 If you'd like to contribute, you can contact via email or the GitHub repo.
 
-# Contact
+## Contact
 
 Mail: hello♪utau.info
