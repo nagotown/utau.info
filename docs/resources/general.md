@@ -36,11 +36,14 @@ For vocal synth songs, you can usually search "[song name\] UST", "VSQ", or "SVP
 - [Utaformatix](https://sdercolin.github.io/utaformatix3/) (Converts VSQ/SVP/other formats to UST)
 
 ## Other UTAU websites
-
+These sites have tutorials and resources related to using and making UTAUs.
+- [utauguides](https://utauguides.carrd.co/)
+- [Wasteland UTAU](https://wastelandutau.neocities.org/ref/resources)
+- [utau.us](https://utau.us)
+- [Utau Tutorials](https://utaututorials.neocities.org/) 
 - [Yin's Oto Tutorial](https://yinsototutorial.weebly.com/)
 - [namazuworks](https://namazuworks.github.io/index.html)
 - :flag_jp: [UTAU Voicebank Production Wiki](https://w.atwiki.jp/vbmaker/) 
 - :flag_jp: [UTAU User Mutual Aid Association](https://w.atwiki.jp/utaou/) 
-- [Utau Tutorials](https://utaututorials.neocities.org/) 
 - :flag_fr: [Utau France](https://utaufrance.com/) 
-- [utau.us](https://utau.us)
+
