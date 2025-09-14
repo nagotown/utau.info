@@ -37,6 +37,7 @@ For vocal synth songs, you can usually search "[song name\] UST", "VSQ", or "SVP
 
 ## Other UTAU websites
 These sites have tutorials and resources related to using and making UTAUs.
+
 - [utauguides](https://utauguides.carrd.co/)
 - [Wasteland UTAU](https://wastelandutau.neocities.org/ref/resources)
 - [utau.us](https://utau.us)
