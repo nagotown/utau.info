@@ -39,7 +39,7 @@ In a new or open project file, click on the voicebank's name above the piano rol
 - 1: You can type in the relative (`Resamplers/resampler.exe`) or absolute path (`C:/Applications/UTAU/Resamplers/resampler.exe`) to a resampler here.
 - 2: If you don't want to type in the path by hand, you can click this button and select your resampler in the menu that pops up.
 
-If you're confused on which file to select after downloading a resampler, remember that resamplers are **always** `.exe`s. If there are multiple exe files, select the one
+If you're confused on which file to select after downloading a resampler, remember that resamplers are **always** `.exe`s. If there are multiple exe files, select the one with the name of the resampler you're using.
 
 Once you've selected your resampler, click OK. UTAU will now use the selected resampler every time you open this UST!
 
