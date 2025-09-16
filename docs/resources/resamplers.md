@@ -275,4 +275,25 @@ By YuzukiTsuru. In development.
 ### straycat
 By UtaUtaUtau. In development.
 
-- [GitHub](https://github.com/UtaUtaUtau/straycat)
+- [Github](https://github.com/UtaUtaUtau/straycat-rs/)
+- [GitHub (Old Version)](https://github.com/UtaUtaUtau/straycat)
+
+### ESPER-Utau
+By CdrSonan. In development.
+
+- [GitHub](https://github.com/CdrSonan/ESPER-Utau)
+
+### SillySampler
+By MLo7Ghinsan. In development.
+
+- [GitHub](https://github.com/MLo7Ghinsan/GOOFER)
+
+### hifisampler
+by openhachimi. In development.
+
+- [GitHub](https://github.com/openhachimi/hifisampler)
+
+### moresampler2
+by Astel123457. In development. Not related to moresampler, but uses libllsm2.
+
+- [GitHub](https://github.com/Astel123457/moresampler2)
