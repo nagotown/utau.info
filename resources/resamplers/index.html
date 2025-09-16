@@ -1,0 +1,2391 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://utau.info/resources/resamplers/">
+      
+      
+        <link rel="prev" href="../general/">
+      
+      
+        <link rel="next" href="../wavtools/">
+      
+      
+      <link rel="icon" href="../../../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.20">
+    
+    
+      
+        <title>Resamplers - utau.info</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.e53b48f4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+      
+        <meta  property="og:type"  content="website" >
+      
+        <meta  property="og:title"  content="Resamplers - utau.info" >
+      
+        <meta  property="og:description"  content="None" >
+      
+        <meta  property="og:image"  content="https://utau.info/assets/images/social/resources/resamplers.png" >
+      
+        <meta  property="og:image:type"  content="image/png" >
+      
+        <meta  property="og:image:width"  content="1200" >
+      
+        <meta  property="og:image:height"  content="630" >
+      
+        <meta  property="og:url"  content="https://utau.info/resources/resamplers/" >
+      
+        <meta  name="twitter:card"  content="summary_large_image" >
+      
+        <meta  name="twitter:title"  content="Resamplers - utau.info" >
+      
+        <meta  name="twitter:description"  content="None" >
+      
+        <meta  name="twitter:image"  content="https://utau.info/assets/images/social/resources/resamplers.png" >
+      
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#resampler-directory" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="utau.info" class="md-header__button md-logo" aria-label="utau.info" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            utau.info
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Resamplers
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/nagotown/utau.info" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    utau.info
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../.." class="md-tabs__link">
+          
+  
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../start/intro/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Starting UTAU
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../general/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Resources
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../about/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  About
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="utau.info" class="md-nav__button md-logo" aria-label="utau.info" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3z"/></svg>
+
+    </a>
+    utau.info
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/nagotown/utau.info" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    utau.info
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../.." class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Starting UTAU
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Starting UTAU
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Start
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Start
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/intro/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Setup
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Setup
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/install/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Installation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/resamplers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Resamplers
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/plugins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Plugins
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Voicebanks
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Voicebanks
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/vbtypes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Types
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/vbdownload/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Downloading
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/vbloading/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Loading
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    USTs
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            USTs
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/ustcreation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Adding Notes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/flags/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Flags
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../start/tuning/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tuning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Resources
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Resources
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../general/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Resamplers
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Resamplers
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#official-resamplers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Official Resamplers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Official Resamplers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      resampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#doppeltler" class="md-nav__link">
+    <span class="md-ellipsis">
+      doppeltler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fresamp" class="md-nav__link">
+    <span class="md-ellipsis">
+      fresamp
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#f2resamp" class="md-nav__link">
+    <span class="md-ellipsis">
+      f2resamp
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phavoco" class="md-nav__link">
+    <span class="md-ellipsis">
+      phavoco
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phaavoco" class="md-nav__link">
+    <span class="md-ellipsis">
+      phaavoco
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#model4" class="md-nav__link">
+    <span class="md-ellipsis">
+      model4
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#independent-resamplers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Independent Resamplers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Independent Resamplers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#moresampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      moresampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#macres" class="md-nav__link">
+    <span class="md-ellipsis">
+      macres
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tips" class="md-nav__link">
+    <span class="md-ellipsis">
+      TIPS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bkh01" class="md-nav__link">
+    <span class="md-ellipsis">
+      bkh01
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vs4u-vocalshifter4utau" class="md-nav__link">
+    <span class="md-ellipsis">
+      VS4U (VocalShifter4UTAU)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#presamp" class="md-nav__link">
+    <span class="md-ellipsis">
+      presamp
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#world-based-resamplers" class="md-nav__link">
+    <span class="md-ellipsis">
+      WORLD Based Resamplers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="WORLD Based Resamplers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#world4utau" class="md-nav__link">
+    <span class="md-ellipsis">
+      world4utau
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#world4utau-zany-edit" class="md-nav__link">
+    <span class="md-ellipsis">
+      world4utau (Zany Edit)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spaceworld" class="md-nav__link">
+    <span class="md-ellipsis">
+      SpaceWorld
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#neoworld" class="md-nav__link">
+    <span class="md-ellipsis">
+      NeoWorld
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#warp" class="md-nav__link">
+    <span class="md-ellipsis">
+      WARP
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#efb-gt" class="md-nav__link">
+    <span class="md-ellipsis">
+      EFB-GT
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#efb-pb" class="md-nav__link">
+    <span class="md-ellipsis">
+      EFB-PB
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#efb-bs-efb-bh" class="md-nav__link">
+    <span class="md-ellipsis">
+      EFB-BS &amp; EFB-BH
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tn_fnds" class="md-nav__link">
+    <span class="md-ellipsis">
+      tn_fnds
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#young3" class="md-nav__link">
+    <span class="md-ellipsis">
+      young3
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pyrwu" class="md-nav__link">
+    <span class="md-ellipsis">
+      PyRwu
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lessampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      lessampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#straycat" class="md-nav__link">
+    <span class="md-ellipsis">
+      straycat
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#esper-utau" class="md-nav__link">
+    <span class="md-ellipsis">
+      ESPER-Utau
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sillysampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      SillySampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hifisampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      hifisampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#moresampler2" class="md-nav__link">
+    <span class="md-ellipsis">
+      moresampler2
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../wavtools/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Wavtools
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Plugins
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tools
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../reclists/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Reclists
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_6" id="__nav_3_6_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Reclists
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reclists/japanese/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Japanese
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reclists/english/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    English
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    About
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#official-resamplers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Official Resamplers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Official Resamplers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      resampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#doppeltler" class="md-nav__link">
+    <span class="md-ellipsis">
+      doppeltler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fresamp" class="md-nav__link">
+    <span class="md-ellipsis">
+      fresamp
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#f2resamp" class="md-nav__link">
+    <span class="md-ellipsis">
+      f2resamp
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phavoco" class="md-nav__link">
+    <span class="md-ellipsis">
+      phavoco
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phaavoco" class="md-nav__link">
+    <span class="md-ellipsis">
+      phaavoco
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#model4" class="md-nav__link">
+    <span class="md-ellipsis">
+      model4
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#independent-resamplers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Independent Resamplers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Independent Resamplers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#moresampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      moresampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#macres" class="md-nav__link">
+    <span class="md-ellipsis">
+      macres
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tips" class="md-nav__link">
+    <span class="md-ellipsis">
+      TIPS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bkh01" class="md-nav__link">
+    <span class="md-ellipsis">
+      bkh01
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vs4u-vocalshifter4utau" class="md-nav__link">
+    <span class="md-ellipsis">
+      VS4U (VocalShifter4UTAU)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#presamp" class="md-nav__link">
+    <span class="md-ellipsis">
+      presamp
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#world-based-resamplers" class="md-nav__link">
+    <span class="md-ellipsis">
+      WORLD Based Resamplers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="WORLD Based Resamplers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#world4utau" class="md-nav__link">
+    <span class="md-ellipsis">
+      world4utau
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#world4utau-zany-edit" class="md-nav__link">
+    <span class="md-ellipsis">
+      world4utau (Zany Edit)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spaceworld" class="md-nav__link">
+    <span class="md-ellipsis">
+      SpaceWorld
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#neoworld" class="md-nav__link">
+    <span class="md-ellipsis">
+      NeoWorld
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#warp" class="md-nav__link">
+    <span class="md-ellipsis">
+      WARP
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#efb-gt" class="md-nav__link">
+    <span class="md-ellipsis">
+      EFB-GT
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#efb-pb" class="md-nav__link">
+    <span class="md-ellipsis">
+      EFB-PB
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#efb-bs-efb-bh" class="md-nav__link">
+    <span class="md-ellipsis">
+      EFB-BS &amp; EFB-BH
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tn_fnds" class="md-nav__link">
+    <span class="md-ellipsis">
+      tn_fnds
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#young3" class="md-nav__link">
+    <span class="md-ellipsis">
+      young3
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pyrwu" class="md-nav__link">
+    <span class="md-ellipsis">
+      PyRwu
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lessampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      lessampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#straycat" class="md-nav__link">
+    <span class="md-ellipsis">
+      straycat
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#esper-utau" class="md-nav__link">
+    <span class="md-ellipsis">
+      ESPER-Utau
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sillysampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      SillySampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hifisampler" class="md-nav__link">
+    <span class="md-ellipsis">
+      hifisampler
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#moresampler2" class="md-nav__link">
+    <span class="md-ellipsis">
+      moresampler2
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="resampler-directory">Resampler Directory</h1>
+<p>The audio examples provided are using the voicebank <a href="https://cubialpha.wixsite.com/koomstar/act4">Hitsuboku Kumi Act 4</a>. UST by <a href="https://nerikirilover.jimdofree.com/ust-楽曲dl/歌唱サンプル用ust/">番煎P</a></p>
+<h2 id="official-resamplers">Official Resamplers</h2>
+<p>Resamplers created by Ameya.</p>
+<h3 id="resampler">resampler</h3>
+<p>Comes with each UTAU version.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/resampler.wav" type="audio/wav">
+</audio></p>
+<h3 id="doppeltler">doppeltler</h3>
+<p>Remake of resampler.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/doppeltler009.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>009 / <a href="https://twitter.com/ameyaP_/status/1233345865596588033">Tweet</a> / <a href="http://utau2008.xrea.jp/2020/engine/">DL</a></li>
+<li>008 / <a href="http://utau2008.xrea.jp/2020/engine/">DL</a></li>
+<li>007 / <a href="http://utau2008.xrea.jp/2020/engine/">DL</a></li>
+<li>006 / <a href="http://utau2008.xrea.jp/2020/engine/">DL</a></li>
+<li>005 / <a href="http://utau2008.xrea.jp/2020/engine/">DL</a></li>
+<li>004 / <a href="http://utau2008.xrea.jp/2020/engine/">DL</a></li>
+</ul>
+<h3 id="fresamp">fresamp</h3>
+<p>Stands for <strong>f</strong>rame<strong>resamp</strong>ler.</p>
+<ul>
+<li>011 / <a href="http://utau2008.xrea.jp/downloads/fresamp011.zip">Direct DL</a></li>
+</ul>
+<p><audio controls>
+  <source src="/audio/resamplers/fresamp11.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>012 / Private</li>
+</ul>
+<p><audio controls>
+  <source src="/audio/resamplers/fresamp12.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>013 / Private</li>
+</ul>
+<p><audio controls>
+  <source src="/audio/resamplers/fresamp13.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>014 / <a href="http://utau2008.xrea.jp/downloads/fresamp014.zip">Direct DL</a></li>
+</ul>
+<p><audio controls>
+  <source src="/audio/resamplers/fresamp14.wav" type="audio/wav">
+</audio></p>
+<h3 id="f2resamp">f2resamp</h3>
+<p>Remake of fresamp.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/f2resamp005.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>005 / <a href="https://twitter.com/ameyaP_/status/1233345866779357184">Tweet</a> / <a href="http://utau2008.xrea.jp/2020/engine/f2resamp005.zip">Direct DL</a></li>
+<li>004 / <a href="https://twitter.com/ameyaP_/status/1231926945023029248">Tweet</a> / <a href="http://utau2008.xrea.jp/2020/engine/f2resamp004.zip">Direct DL</a></li>
+<li>003 / <a href="https://twitter.com/ameyaP_/status/1229288347580784640">Tweet</a> / <a href="http://utau2008.xrea.jp/2020/engine/f2resamp003.zip">Direct DL</a></li>
+<li>002 / <a href="https://twitter.com/ameyaP_/status/1228990965806845952">Tweet</a> / <a href="http://utau2008.xrea.jp/2020/engine/f2resamp002.zip">Direct DL</a></li>
+<li>001 / <a href="https://twitter.com/ameyaP_/status/1228670700287737856">Tweet</a> / <a href="http://utau2008.xrea.jp/2020/engine/f2resamp001.zip">Direct DL</a></li>
+</ul>
+<h3 id="phavoco">phavoco</h3>
+<p>Stands for <strong>pha</strong>se<strong>voco</strong>der.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/phavoco.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>010 / <a href="http://utau2008.xrea.jp/downloads/phavoco010.zip">DL</a></li>
+</ul>
+<h3 id="phaavoco">phaavoco</h3>
+<p>Remake of phavoco. Originally was going to be named phävoco/phaävoco, but Ameya opted for phaavoco to prevent filename issues.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/phaavoco.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>001 / <a href="https://twitter.com/ameyaP_/status/1235532652939116545">Tweet</a> / <a href="http://utau2008.xrea.jp/2020/engine/phaavoco001.zip">Direct DL</a></li>
+</ul>
+<h3 id="model4">model4</h3>
+<p>A beta model that was only distributed to certain people. Makes random notes significantly quieter. Creates <code>.frc</code> files.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/model4.wav" type="audio/wav">
+</audio></p>
+<h2 id="independent-resamplers">Independent Resamplers</h2>
+<p>Resamplers created by the community.</p>
+<h3 id="moresampler">moresampler</h3>
+<p>By Kanru Hua. Can also be used as a wavtool.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/moresampler.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>0.8.4 / <a href="https://bowlroll.net/file/139123">BowlRoll</a></li>
+<li><a href="https://web.archive.org/web/20181008050145/https://webhost.engr.illinois.edu/~khua5/index.php/moresampler/">Website (Archived)</a></li>
+</ul>
+<h3 id="macres">macres</h3>
+<p>By titinko. Crossplatform resampler.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/macres.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li><a href="https://github.com/titinko/macres">GitHub</a></li>
+</ul>
+<h3 id="tips">TIPS</h3>
+<p>By ScientistB. Good with soft voicebanks.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/TIPS.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li><a href="http://scientistb.web.fc2.com/program/">Homepage</a></li>
+</ul>
+<h3 id="bkh01">bkh01</h3>
+<p>By Zteer.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/bkh01.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li><a href="http://z-server.game.coocan.jp/utau/utautop.html#bkh01">0.55</a></li>
+</ul>
+<h3 id="vs4u-vocalshifter4utau">VS4U (VocalShifter4UTAU)</h3>
+<p>By Ackie Sound.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/VS4U.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li><a href="https://ackiesound.ifdef.jp/download.html">Homepage</a>
+Scroll down to <strong>UTAU向けエンジン VS4U</strong> and click <strong>ダウンロード</strong>.</li>
+</ul>
+<h3 id="presamp">presamp</h3>
+<p>By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling. Can be used with whatever resampler or wavtool you want.
+Sometimes, config files for presamp will be included with non-Japanese banks to improve ease of use. </p>
+<ul>
+<li><a href="https://delta-kimigatame.hatenablog.jp/entry/ar477661">Homepage</a></li>
+<li><a href="https://tl.tubs.wtf/2021/07/11/presamp-download">English setup guide by KLAD</a></li>
+</ul>
+<h2 id="world-based-resamplers">WORLD Based Resamplers</h2>
+<p>Resamplers that use WORLD.</p>
+<h3 id="world4utau">world4utau</h3>
+<p>By Ameya.</p>
+<ul>
+<li><a href="http://utau2008.xrea.jp/mp3/engine_hikaku.html">Homepage</a></li>
+</ul>
+<h3 id="world4utau-zany-edit">world4utau (Zany Edit)</h3>
+<p>By Zany.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/world4utau_zany.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li><a href="https://bowlroll.net/file/203064">BowlRoll</a></li>
+</ul>
+<h3 id="spaceworld">SpaceWorld</h3>
+<p>By LovelyA72. Updated fork of Zany's w4u.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/SpaceWorld.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li><a href="https://github.com/LovelyA72/SpaceWorld/releases">GitHub</a></li>
+</ul>
+<h3 id="neoworld">NeoWorld</h3>
+<p>By LovelyA72. Updated fork of Zany's w4u for crossplatform. Experimental.</p>
+<ul>
+<li><a href="https://github.com/LovelyA72/NeoWorld">GitHub</a></li>
+</ul>
+<h3 id="warp">WARP</h3>
+<p>By Custom.Maid.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/WARP.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>2013-01-10 / <a href="http://custom-made.seesaa.net/article/312530509.html">Post</a> / <a href="http://www1.axfc.net/uploader/so/2750034">DL</a></li>
+</ul>
+<h3 id="efb-gt">EFB-GT</h3>
+<p>By Custom.Maid.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/EFB-GT.wav" type="audio/wav">
+</audio></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Latest</label><label for="__tabbed_1_2">Old</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li>2013-01-10 / <a href="http://custom-made.seesaa.net/article/312529786.html">Post</a> / <a href="http://www1.axfc.net/uploader/so/2750014">DL</a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li>2012-11-22 / <a href="http://custom-made.seesaa.net/article/303505830.html">Post</a> / <a href="http://www1.axfc.net/uploader/so/2687150">DL</a></li>
+<li>2012-11-17 / <a href="http://custom-made.seesaa.net/article/302245751.html">Post</a> / <a href="http://www1.axfc.net/uploader/so/26791389">DL</a></li>
+<li>2012-09-08 / <a href="http://custom-made.seesaa.net/article/292048505.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/377403">DL</a></li>
+<li>2012-07-21 / <a href="http://custom-made.seesaa.net/article/284788132.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/367589">DL</a></li>
+<li>2012-06-19 / <a href="http://custom-made.seesaa.net/article/278036350.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/358355">DL</a></li>
+<li>2012-06-12 / <a href="http://custom-made.seesaa.net/article/275462562.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/354715">DL</a></li>
+<li>2012-06-05 / <a href="http://custom-made.seesaa.net/article/273619266.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/352081">DL</a></li>
+<li>2012-06-02 / <a href="http://custom-made.seesaa.net/article/273195115.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/351171">DL</a></li>
+<li>2012-05-21 / <a href="http://custom-made.seesaa.net/article/270671913.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/348253">DL</a></li>
+</ul>
+</div>
+</div>
+</div>
+<h3 id="efb-pb">EFB-PB</h3>
+<p>By Custom.Maid. Discontinued, but official links are still accessible.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/EFB-PB.wav" type="audio/wav">
+</audio></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="2:2"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1">Latest</label><label for="__tabbed_2_2">Old</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li>2012-07-21 / <a href="http://custom-made.seesaa.net/article/284788132.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/367590">DL</a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li>2012-06-19 / <a href="http://custom-made.seesaa.net/article/278036350.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/358362">DL</a></li>
+<li>2012-06-12 / <a href="http://custom-made.seesaa.net/article/275462562.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/354717">DL</a></li>
+<li>2012-06-05 / <a href="http://custom-made.seesaa.net/article/273619266.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/352084">DL</a></li>
+<li>2012-06-02 / <a href="http://custom-made.seesaa.net/article/273195115.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/351175">DL</a></li>
+<li>2012-05-21 / <a href="http://custom-made.seesaa.net/article/270671913.html">Post</a> / <a href="http://www1.axfc.net/uploader/Sc/so/348256">DL</a></li>
+</ul>
+</div>
+</div>
+</div>
+<h3 id="efb-bs-efb-bh">EFB-BS &amp; EFB-BH</h3>
+<p>By Zany. Edit of WARP/EFB-GT.</p>
+<ul>
+<li>EFB-BS / <a href="https://bowlroll.net/file/218497">BowlRoll</a></li>
+</ul>
+<p><audio controls>
+  <source src="/audio/resamplers/EFB-BS.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li>EFB-BH / <a href="https://bowlroll.net/file/218498">BowlRoll</a></li>
+</ul>
+<p><audio controls>
+  <source src="/audio/resamplers/EFB-BH.wav" type="audio/wav">
+</audio></p>
+<h3 id="tn_fnds">tn_fnds</h3>
+<p>By Zteer.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/tn_fnds.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li><a href="http://z-server.game.coocan.jp/utau/utautop.html#tn_fnds">0.0.9</a></li>
+</ul>
+<h3 id="young3">young3</h3>
+<p>By Zany. tn_fnds edited to use HARVEST F0 estimation.</p>
+<p><audio controls>
+  <source src="/audio/resamplers/young3.wav" type="audio/wav">
+</audio></p>
+<ul>
+<li><a href="https://bowlroll.net/file/203018">BowlRoll</a></li>
+</ul>
+<h3 id="pyrwu">PyRwu</h3>
+<p>By Delta. Full name is "Py Resampler by world for utau".</p>
+<ul>
+<li><a href="https://github.com/delta-kimigatame/PyRwu">GitHub</a></li>
+</ul>
+<h3 id="lessampler">lessampler</h3>
+<p>By YuzukiTsuru. In development.</p>
+<ul>
+<li><a href="https://github.com/YuzukiTsuru/lessampler">GitHub</a></li>
+</ul>
+<h3 id="straycat">straycat</h3>
+<p>By UtaUtaUtau. In development.</p>
+<ul>
+<li><a href="https://github.com/UtaUtaUtau/straycat-rs/">Github</a></li>
+<li><a href="https://github.com/UtaUtaUtau/straycat">GitHub (Old Version)</a></li>
+</ul>
+<h3 id="esper-utau">ESPER-Utau</h3>
+<p>By CdrSonan. In development.</p>
+<ul>
+<li><a href="https://github.com/CdrSonan/ESPER-Utau">GitHub</a></li>
+</ul>
+<h3 id="sillysampler">SillySampler</h3>
+<p>By MLo7Ghinsan. In development.</p>
+<ul>
+<li><a href="https://github.com/MLo7Ghinsan/GOOFER">GitHub</a></li>
+</ul>
+<h3 id="hifisampler">hifisampler</h3>
+<p>by openhachimi. In development.</p>
+<ul>
+<li><a href="https://github.com/openhachimi/hifisampler">GitHub</a></li>
+</ul>
+<h3 id="moresampler2">moresampler2</h3>
+<p>by Astel123457. In development. Not related to moresampler, but uses libllsm2.</p>
+<ul>
+<li><a href="https://github.com/Astel123457/moresampler2">GitHub</a></li>
+</ul>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.expand", "navigation.indexes", "navigation.instant", "navigation.sections", "navigation.instant.progress"], "search": "../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      
+    
+  </body>
+</html>
