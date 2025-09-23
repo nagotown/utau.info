@@ -1,3 +1,8 @@
+---
+tags:
+  - resampler
+---
+
 # Resampler Directory
 
 The audio examples provided are using the voicebank [Hitsuboku Kumi Act 4](https://cubialpha.wixsite.com/koomstar/act4). UST by [番煎P](https://nerikirilover.jimdofree.com/ust-楽曲dl/歌唱サンプル用ust/)
@@ -180,7 +185,8 @@ by Astel123457. In development. Not related to moresampler, but uses libllsm2.
 - [Latest Release](https://github.com/Astel123457/moresampler2/releases/latest)
 
 ### presamp
-By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling. Can be used with whatever resampler or wavtool you want.  
+By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling.  
+Can be used with whatever resampler or wavtool you want.  
 Sometimes, config files for presamp will be included with non-Japanese banks to improve ease of use.  
 [Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar477661)
 

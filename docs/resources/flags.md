@@ -1,3 +1,8 @@
+---
+tags:
+  - resampler
+---
+
 # UTAU Flags Masterlist `WORK IN PROGRESS`
 
 ## General

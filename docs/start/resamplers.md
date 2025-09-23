@@ -1,3 +1,8 @@
+---
+tags:
+  - resampler
+---
+
 !!! note 
 
         To-do: Add information about frq files, fix `resampler2.png`
