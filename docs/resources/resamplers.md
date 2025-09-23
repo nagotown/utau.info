@@ -13,18 +13,19 @@ Comes with each UTAU version.
 </audio>
 
 ### doppeltler
-Remake of resampler.
+Remake of resampler.  
+[Website](https://utau2008.xrea.jp/2020/engine/)
 
 <audio controls>
   <source src="/audio/resamplers/doppeltler009.wav" type="audio/wav">
 </audio>
 
-- 009 / [Tweet](https://twitter.com/ameyaP_/status/1233345865596588033) / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 008 / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 007 / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 006 / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 005 / [DL](http://utau2008.xrea.jp/2020/engine/)
-- 004 / [DL](http://utau2008.xrea.jp/2020/engine/)
+- 009 / [Direct DL](https://utau2008.xrea.jp/2020/engine/doppeltler009.zip) / [Tweet](https://twitter.com/ameyaP_/status/1233345865596588033)
+- 008 / [Direct DL](https://utau2008.xrea.jp/2020/engine/doppeltler008.zip)
+- 007 / [Direct DL](https://utau2008.xrea.jp/2020/engine/doppeltler007.zip)
+- 006 / [Direct DL](https://utau2008.xrea.jp/2020/engine/doppeltler006.zip)
+- 005 / [Direct DL](https://utau2008.xrea.jp/2020/engine/doppeltler005.zip)
+- 004 / [Direct DL](https://utau2008.xrea.jp/2020/engine/doppeltler004.zip)
 
 ### fresamp
 Stands for **f**rame**resamp**ler.
@@ -60,11 +61,11 @@ Remake of fresamp.
   <source src="/audio/resamplers/f2resamp005.wav" type="audio/wav">
 </audio>
 
-- 005 / [Tweet](https://twitter.com/ameyaP_/status/1233345866779357184) / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp005.zip)
-- 004 / [Tweet](https://twitter.com/ameyaP_/status/1231926945023029248) / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp004.zip)
-- 003 / [Tweet](https://twitter.com/ameyaP_/status/1229288347580784640) / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp003.zip)
-- 002 / [Tweet](https://twitter.com/ameyaP_/status/1228990965806845952) / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp002.zip)
-- 001 / [Tweet](https://twitter.com/ameyaP_/status/1228670700287737856) / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp001.zip)
+- 005 / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp005.zip) / [Tweet](https://twitter.com/ameyaP_/status/1233345866779357184)
+- 004 / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp004.zip) / [Tweet](https://twitter.com/ameyaP_/status/1231926945023029248)
+- 003 / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp003.zip) / [Tweet](https://twitter.com/ameyaP_/status/1229288347580784640)
+- 002 / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp002.zip) / [Tweet](https://twitter.com/ameyaP_/status/1228990965806845952)
+- 001 / [Direct DL](http://utau2008.xrea.jp/2020/engine/f2resamp001.zip) / [Tweet](https://twitter.com/ameyaP_/status/1228670700287737856)
 
 ### phavoco
 Stands for **pha**se**voco**der.
@@ -73,7 +74,7 @@ Stands for **pha**se**voco**der.
   <source src="/audio/resamplers/phavoco.wav" type="audio/wav">
 </audio>
 
-- 010 / [DL](http://utau2008.xrea.jp/downloads/phavoco010.zip)
+- 010 / [Direct DL](http://utau2008.xrea.jp/downloads/phavoco010.zip)
 
 ### phaavoco
 Remake of phavoco. Originally was going to be named phävoco/phaävoco, but Ameya opted for phaavoco to prevent filename issues.
@@ -82,7 +83,7 @@ Remake of phavoco. Originally was going to be named phävoco/phaävoco, but Amey
   <source src="/audio/resamplers/phaavoco.wav" type="audio/wav">
 </audio>
 
-- 001 / [Tweet](https://twitter.com/ameyaP_/status/1235532652939116545) / [Direct DL](http://utau2008.xrea.jp/2020/engine/phaavoco001.zip)
+- 001 / [Direct DL](http://utau2008.xrea.jp/2020/engine/phaavoco001.zip) / [Tweet](https://twitter.com/ameyaP_/status/1235532652939116545)
 
 ### model4
 A beta model that was only distributed to certain people. Makes random notes significantly quieter. Creates `.frc` files.
@@ -96,23 +97,34 @@ A beta model that was only distributed to certain people. Makes random notes sig
 Resamplers created by the community.
 
 ### moresampler
-By Kanru Hua. Can also be used as a wavtool.
+By Kanru Hua. Can also be used as a wavtool.  
+All download links are mirrors as the original website no longer exists.    
+[Website (Archived)](https://web.archive.org/web/20181008050145/https://webhost.engr.illinois.edu/~khua5/index.php/moresampler/)
 
 <audio controls>
   <source src="/audio/resamplers/moresampler.wav" type="audio/wav">
 </audio>
 
-- 0.8.4 / [BowlRoll](https://bowlroll.net/file/139123)
-- [Website (Archived)](https://web.archive.org/web/20181008050145/https://webhost.engr.illinois.edu/~khua5/index.php/moresampler/)
+=== "Latest"
+    - 0.8.4 / [BowlRoll](https://bowlroll.net/file/139123)
 
-### macres
-By titinko. Crossplatform resampler.
-
-<audio controls>
-  <source src="/audio/resamplers/macres.wav" type="audio/wav">
-</audio>
-
-- [GitHub](https://github.com/titinko/macres)
+=== "Old"
+    - 0.8.2 / [BowlRoll](https://bowlroll.net/file/137585)
+    - 0.8.1 / [BowlRoll](https://bowlroll.net/file/132412)
+    - 0.8.0 / [BowlRoll](https://bowlroll.net/file/129452)
+    - 0.7.2 / [BowlRoll](https://bowlroll.net/file/119093)
+    - 0.7.1 / [BowlRoll](https://bowlroll.net/file/112681)
+    - 0.7.0 / [BowlRoll](https://bowlroll.net/file/105033)
+    - 0.6.4 / [BowlRoll](https://bowlroll.net/file/101958)
+    - 0.6.1 / [BowlRoll](https://bowlroll.net/file/99491)
+    - 0.6.0 / [BowlRoll](https://bowlroll.net/file/98787)
+    - 0.5.0 / [BowlRoll](https://bowlroll.net/file/95904)
+    - 0.3.1 / [BowlRoll](https://bowlroll.net/file/94150)
+    - 0.3.0 / [BowlRoll](https://bowlroll.net/file/93087)
+    - 0.2.2 / [BowlRoll](https://bowlroll.net/file/90719)
+    - 0.2.1 / [BowlRoll](https://bowlroll.net/file/89607)
+    - 0.2.0 / [BowlRoll](https://bowlroll.net/file/85671)
+    - 0.1.5 / [BowlRoll](https://bowlroll.net/file/83310)
 
 ### TIPS
 By ScientistB. Good with soft voicebanks.
@@ -124,29 +136,54 @@ By ScientistB. Good with soft voicebanks.
 - [Homepage](http://scientistb.web.fc2.com/program/)
 
 ### bkh01
-By Zteer.
+By Zteer.  
+[Homepage]((http://z-server.game.coocan.jp/utau/utautop.html#bkh01))
 
 <audio controls>
   <source src="/audio/resamplers/bkh01.wav" type="audio/wav">
 </audio>
 
-- [0.55](http://z-server.game.coocan.jp/utau/utautop.html#bkh01)
+- [0.55](http://z-server.game.coocan.jp/utau/bkh01_055.zip)
 
 ### VS4U (VocalShifter4UTAU)
-By Ackie Sound.
+By Ackie Sound.  
+[Homepage](https://ackiesound.ifdef.jp/download.html)
 
 <audio controls>
   <source src="/audio/resamplers/VS4U.wav" type="audio/wav">
 </audio>
 
-- [Homepage](https://ackiesound.ifdef.jp/download.html)
-Scroll down to **UTAU向けエンジン VS4U** and click **ダウンロード**.
+- [Direct DL](https://ackiesound.ifdef.jp/data/vs4u143.zip)
+
+### ESPER-Utau
+By CdrSonan. In development.  
+[GitHub](https://github.com/CdrSonan/ESPER-Utau)
+
+- [Latest Release](https://github.com/CdrSonan/ESPER-Utau/releases/latest)
+
+### SillySampler
+By MLo7Ghinsan. In development.  
+[GitHub](https://github.com/MLo7Ghinsan/GOOFER)
+
+- [Latest Release](https://github.com/MLo7Ghinsan/GOOFER/releases/latest)
+
+### hifisampler
+by openhachimi. In development.  
+[GitHub](https://github.com/openhachimi/hifisampler)
+
+- [Latest Release](https://github.com/openhachimi/hifisampler/releases/latest)
+
+### moresampler2
+by Astel123457. In development. Not related to moresampler, but uses libllsm2.  
+[GitHub](https://github.com/Astel123457/moresampler2)
+
+- [Latest Release](https://github.com/Astel123457/moresampler2/releases/latest)
 
 ### presamp
-By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling. Can be used with whatever resampler or wavtool you want.
-Sometimes, config files for presamp will be included with non-Japanese banks to improve ease of use. 
+By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling. Can be used with whatever resampler or wavtool you want.  
+Sometimes, config files for presamp will be included with non-Japanese banks to improve ease of use.  
+[Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar477661)
 
-- [Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar477661)
 - [English setup guide by KLAD](https://tl.tubs.wtf/2021/07/11/presamp-download)
 
 
@@ -169,18 +206,20 @@ By Zany.
 - [BowlRoll](https://bowlroll.net/file/203064)
 
 ### SpaceWorld
-By LovelyA72. Updated fork of Zany's w4u.
+By LovelyA72. Updated fork of Zany's w4u.  
+[GitHub](https://github.com/LovelyA72/SpaceWorld/releases)
 
 <audio controls>
   <source src="/audio/resamplers/SpaceWorld.wav" type="audio/wav">
 </audio>
 
-- [GitHub](https://github.com/LovelyA72/SpaceWorld/releases)
+- [Latest Release](https://github.com/LovelyA72/SpaceWorld/releases/latest)
 
 ### NeoWorld
-By LovelyA72. Updated fork of Zany's w4u for crossplatform. Experimental.
+By LovelyA72. Updated crossplatform fork of Zany's w4u. Experimental.  
+[GitHub](https://github.com/LovelyA72/NeoWorld)
 
-- [GitHub](https://github.com/LovelyA72/NeoWorld)
+- [Latest Release](https://github.com/LovelyA72/NeoWorld/releases/latest)
 
 ### WARP
 By Custom.Maid.
@@ -189,7 +228,7 @@ By Custom.Maid.
   <source src="/audio/resamplers/WARP.wav" type="audio/wav">
 </audio>
 
-- 2013-01-10 / [Post](http://custom-made.seesaa.net/article/312530509.html) / [DL](http://www1.axfc.net/uploader/so/2750034)
+- 2013-01-10 / [DL](http://www1.axfc.net/uploader/so/2750034) / [Post](http://custom-made.seesaa.net/article/312530509.html)
 
 ### EFB-GT
 By Custom.Maid.
@@ -199,18 +238,18 @@ By Custom.Maid.
 </audio>
 
 === "Latest"
-    - 2013-01-10 / [Post](http://custom-made.seesaa.net/article/312529786.html) / [DL](http://www1.axfc.net/uploader/so/2750014)
+    - 2013-01-10 / [DL](http://www1.axfc.net/uploader/so/2750014) / [Post](http://custom-made.seesaa.net/article/312529786.html)
 
 === "Old"
-    - 2012-11-22 / [Post](http://custom-made.seesaa.net/article/303505830.html) / [DL](http://www1.axfc.net/uploader/so/2687150)
-    - 2012-11-17 / [Post](http://custom-made.seesaa.net/article/302245751.html) / [DL](http://www1.axfc.net/uploader/so/26791389)
-    - 2012-09-08 / [Post](http://custom-made.seesaa.net/article/292048505.html) / [DL](http://www1.axfc.net/uploader/Sc/so/377403)
-    - 2012-07-21 / [Post](http://custom-made.seesaa.net/article/284788132.html) / [DL](http://www1.axfc.net/uploader/Sc/so/367589)
-    - 2012-06-19 / [Post](http://custom-made.seesaa.net/article/278036350.html) / [DL](http://www1.axfc.net/uploader/Sc/so/358355)
-    - 2012-06-12 / [Post](http://custom-made.seesaa.net/article/275462562.html) / [DL](http://www1.axfc.net/uploader/Sc/so/354715)
-    - 2012-06-05 / [Post](http://custom-made.seesaa.net/article/273619266.html) / [DL](http://www1.axfc.net/uploader/Sc/so/352081)
-    - 2012-06-02 / [Post](http://custom-made.seesaa.net/article/273195115.html) / [DL](http://www1.axfc.net/uploader/Sc/so/351171)
-    - 2012-05-21 / [Post](http://custom-made.seesaa.net/article/270671913.html) / [DL](http://www1.axfc.net/uploader/Sc/so/348253)
+    - 2012-11-22 / [DL](http://www1.axfc.net/uploader/so/2687150) / [Post](http://custom-made.seesaa.net/article/303505830.html)
+    - 2012-11-17 / [DL](http://www1.axfc.net/uploader/so/26791389) / [Post](http://custom-made.seesaa.net/article/302245751.html)
+    - 2012-09-08 / [DL](http://www1.axfc.net/uploader/Sc/so/377403) / [Post](http://custom-made.seesaa.net/article/292048505.html)
+    - 2012-07-21 / [DL](http://www1.axfc.net/uploader/Sc/so/367589) / [Post](http://custom-made.seesaa.net/article/284788132.html)
+    - 2012-06-19 / [DL](http://www1.axfc.net/uploader/Sc/so/358355) / [Post](http://custom-made.seesaa.net/article/278036350.html)
+    - 2012-06-12 / [DL](http://www1.axfc.net/uploader/Sc/so/354715) / [Post](http://custom-made.seesaa.net/article/275462562.html)
+    - 2012-06-05 / [DL](http://www1.axfc.net/uploader/Sc/so/352081) / [Post](http://custom-made.seesaa.net/article/273619266.html)
+    - 2012-06-02 / [DL](http://www1.axfc.net/uploader/Sc/so/351171) / [Post](http://custom-made.seesaa.net/article/273195115.html)
+    - 2012-05-21 / [DL](http://www1.axfc.net/uploader/Sc/so/348253) / [Post](http://custom-made.seesaa.net/article/270671913.html)
 
 ### EFB-PB
 By Custom.Maid. Discontinued, but official links are still accessible.
@@ -220,14 +259,14 @@ By Custom.Maid. Discontinued, but official links are still accessible.
 </audio>
 
 === "Latest"
-    - 2012-07-21 / [Post](http://custom-made.seesaa.net/article/284788132.html) / [DL](http://www1.axfc.net/uploader/Sc/so/367590)
+    - 2012-07-21 / [DL](http://www1.axfc.net/uploader/Sc/so/367590) / [Post](http://custom-made.seesaa.net/article/284788132.html)
 
 === "Old"
-    - 2012-06-19 / [Post](http://custom-made.seesaa.net/article/278036350.html) / [DL](http://www1.axfc.net/uploader/Sc/so/358362)
-    - 2012-06-12 / [Post](http://custom-made.seesaa.net/article/275462562.html) / [DL](http://www1.axfc.net/uploader/Sc/so/354717)
-    - 2012-06-05 / [Post](http://custom-made.seesaa.net/article/273619266.html) / [DL](http://www1.axfc.net/uploader/Sc/so/352084)
-    - 2012-06-02 / [Post](http://custom-made.seesaa.net/article/273195115.html) / [DL](http://www1.axfc.net/uploader/Sc/so/351175)
-    - 2012-05-21 / [Post](http://custom-made.seesaa.net/article/270671913.html) / [DL](http://www1.axfc.net/uploader/Sc/so/348256)
+    - 2012-06-19 / [DL](http://www1.axfc.net/uploader/Sc/so/358362) / [Post](http://custom-made.seesaa.net/article/278036350.html)
+    - 2012-06-12 / [DL](http://www1.axfc.net/uploader/Sc/so/354717) / [Post](http://custom-made.seesaa.net/article/275462562.html)
+    - 2012-06-05 / [DL](http://www1.axfc.net/uploader/Sc/so/352084) / [Post](http://custom-made.seesaa.net/article/273619266.html)
+    - 2012-06-02 / [DL](http://www1.axfc.net/uploader/Sc/so/351175) / [Post](http://custom-made.seesaa.net/article/273195115.html)
+    - 2012-05-21 / [DL](http://www1.axfc.net/uploader/Sc/so/348256) / [Post](http://custom-made.seesaa.net/article/270671913.html)
 
 ### EFB-BS & EFB-BH
 By Zany. Edit of WARP/EFB-GT.
@@ -262,38 +301,32 @@ By Zany. tn_fnds edited to use HARVEST F0 estimation.
 
 - [BowlRoll](https://bowlroll.net/file/203018)
 
-### PyRwu
-By Delta. Full name is "Py Resampler by world for utau".
+### macres
+By titinko. Crossplatform resampler. Based on tn_fnds.  
+[GitHub](https://github.com/titinko/macres)
 
-- [GitHub](https://github.com/delta-kimigatame/PyRwu)
+<audio controls>
+  <source src="/audio/resamplers/macres.wav" type="audio/wav">
+</audio>
+
+- [Latest Release](https://github.com/titinko/macres/releases/latest)
+
+### PyRwu
+By Delta. Full name is "Py Resampler by world for utau".  
+[GitHub](https://github.com/delta-kimigatame/PyRwu)
+
+- [Latest Release](https://github.com/delta-kimigatame/PyRwu/releases/latest)
+
 
 ### lessampler
-By YuzukiTsuru. In development.
+By YuzukiTsuru. In development.  
+[GitHub](https://github.com/YuzukiTsuru/lessampler)
 
-- [GitHub](https://github.com/YuzukiTsuru/lessampler)
+- [Latest Release](https://github.com/YuzukiTsuru/lessampler/releases/latest)
 
 ### straycat
-By UtaUtaUtau. In development.
+By UtaUtaUtau. In development.  
+[Github](https://github.com/UtaUtaUtau/straycat-rs/)  
+[GitHub (Old Version)](https://github.com/UtaUtaUtau/straycat)
 
-- [Github](https://github.com/UtaUtaUtau/straycat-rs/)
-- [GitHub (Old Version)](https://github.com/UtaUtaUtau/straycat)
-
-### ESPER-Utau
-By CdrSonan. In development.
-
-- [GitHub](https://github.com/CdrSonan/ESPER-Utau)
-
-### SillySampler
-By MLo7Ghinsan. In development.
-
-- [GitHub](https://github.com/MLo7Ghinsan/GOOFER)
-
-### hifisampler
-by openhachimi. In development.
-
-- [GitHub](https://github.com/openhachimi/hifisampler)
-
-### moresampler2
-by Astel123457. In development. Not related to moresampler, but uses libllsm2.
-
-- [GitHub](https://github.com/Astel123457/moresampler2)
+- [Latest Release](https://github.com/UtaUtaUtau/straycat-rs/releases/latest)
