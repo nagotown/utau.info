@@ -10,7 +10,6 @@
 - [UTAU Wiki 2.0](https://utau.wiki)
 - [VocaDB Search](https://vocadb.net/Search?searchType=Artist&artistType=UTAU&childTags=false&page=1&pageSize=10&sort=SongRating)
 - [UTAU Wiki (Fandom)](https://utau.fandom.com/wiki/UTAU_wiki)
-- :flag_jp: [UTAU Visual Archive](http://utaudatabase.wiki.fc2.com/)
 - :flag_jp: [UTAU DB](http://utaudb.sakura.ne.jp/)
 - :flag_jp: [UTAU Voicebank Distribution tag on NicoNico](https://www.nicovideo.jp/tag/UTAU%E9%9F%B3%E6%BA%90%E9%85%8D%E5%B8%83%E6%89%80%E3%83%AA%E3%83%B3%E3%82%AF)
 - :flag_jp: [UTAU Voicebank tag on BowlRoll](https://bowlroll.net/file/tag/UTAU%E9%9F%B3%E6%BA%90)
@@ -29,7 +28,7 @@ Everyone who distributes vocal synth project files has rules for them. Please be
 - [VocaDB](https://vocadb.net/Search?searchType=Song&childTags=true&page=1&pageSize=10&sort=RatingScore&tagId%5B0%5D=6326&tagId%5B1%5D=3214&unifyEntryTypesAndTags=false&viewMode=Details&excludedTags%5B0%5D=11109)
 - :flag_jp: [UST Distribution tag on NicoNico](https://www.nicovideo.jp/tag/ust%E9%85%8D%E5%B8%83)
 - :flag_jp: [UST Distribution tag on BowlRoll](https://bowlroll.net/file/tag/UST%E9%85%8D%E5%B8%83)
-- :flag_cn: [vsqx.top](https://vsqx.top/) (Has very many project files, but can vary in quality more than other options here)
+- :flag_cn: [vsqx.top](https://vsqx.top/) (Has many project files including for less common songs, but can vary in quality more than other options here)
 
 For vocal synth songs, you can usually search "[song name\] UST", "VSQ", or "SVP" to find an existing project file. For songs by human singers, you may find a project file, or you might need to find a midi of the song and edit it by hand.
 ### Tools
