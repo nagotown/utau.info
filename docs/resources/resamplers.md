@@ -132,23 +132,24 @@ All download links are mirrors as the original website no longer exists.
     - 0.1.5 / [BowlRoll](https://bowlroll.net/file/83310)
 
 ### TIPS
-By ScientistB. Good with soft voicebanks.
+By ScientistB. Good with soft voicebanks.  
+[Homepage](http://scientistb.web.fc2.com/program/)
 
 <audio controls>
   <source src="/audio/resamplers/TIPS.wav" type="audio/wav">
 </audio>
 
-- [Homepage](http://scientistb.web.fc2.com/program/)
+- [Direct DL](http://scientistb.web.fc2.com/program/TIPS.zip)
 
 ### bkh01
 By Zteer.  
-[Homepage]((http://z-server.game.coocan.jp/utau/utautop.html#bkh01))
+[Homepage](http://z-server.game.coocan.jp/utau/utautop.html)
 
 <audio controls>
   <source src="/audio/resamplers/bkh01.wav" type="audio/wav">
 </audio>
 
-- [0.55](http://z-server.game.coocan.jp/utau/bkh01_055.zip)
+- [Download](http://z-server.game.coocan.jp/utau/utautop.html#bkh01)
 
 ### VS4U (VocalShifter4UTAU)
 By Ackie Sound.  
@@ -158,7 +159,7 @@ By Ackie Sound.
   <source src="/audio/resamplers/VS4U.wav" type="audio/wav">
 </audio>
 
-- [Direct DL](https://ackiesound.ifdef.jp/data/vs4u143.zip)
+- [Download](https://ackiesound.ifdef.jp/download.html#vs4u)
 
 ### ESPER-Utau
 By CdrSonan. In development.  
