@@ -7,7 +7,8 @@
 ## Voicebanks
 
 - [UTAU Repository](https://utaurepository.miraheze.org/wiki/Main_Page)
-- [UTAU Wiki 2.0](https://utau.wiki)
+- [UTAU Wiki 2.0](https://utau.wikidot.com)
+- [UTAU Wiki 3.0](https://utau.wiki/) (WIP)
 - [VocaDB Search](https://vocadb.net/Search?searchType=Artist&artistType=UTAU&childTags=false&page=1&pageSize=10&sort=SongRating)
 - [UTAU Wiki (Fandom)](https://utau.fandom.com/wiki/UTAU_wiki)
 - :flag_jp: [UTAU DB](http://utaudb.sakura.ne.jp/)
