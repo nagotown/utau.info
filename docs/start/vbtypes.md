@@ -2,7 +2,7 @@
 
 In UTAU, there are various formats of voicebanks. Each of them are used differently.
 
-Each note is represented by 1 mora. A mora is basically one syllable; it can be a consonant-vowel pair [`ka`], or a single vowel [`a`]. In some cases Japanese uses C-C-V syllables [`sha`], [`nya`], and these are treated the same as normal CV notes. 
+Each note is represented by 1 mora. A mora is basically one syllable; it can be a consonant-vowel pair [`ka`], or a single vowel [`a`]. 
 
 Most Japanese voicebanks use kana aliasing, which uses Japanese characters. There are romaji (romanization of japanese characters) aliased voicebanks, but the standard is to use kana aliasing. Because of this, it is recommended (but not required!) to learn to read kana when using Japanese voicebanks.
 
