@@ -15,6 +15,10 @@ Comes with each UTAU version.
 ### doppeltler
 Remake of resampler.
 
+Supports samples in mp3, flac, and ogg if the respective executables are added to environment variables.
+
+[readme](https://utau2008.xrea.jp/2020/engine/doppeltler_readme_en.txt)
+
 <audio controls>
   <source src="/audio/resamplers/doppeltler009.wav" type="audio/wav">
 </audio>
@@ -96,7 +100,7 @@ A beta model that was only distributed to certain people. Makes random notes sig
 Resamplers created by the community.
 
 ### moresampler
-By Kanru Hua. Can also be used as a wavtool.
+By Kanru Hua. Can also be used as a wavtool when using as a resampler.
 
 <audio controls>
   <source src="/audio/resamplers/moresampler.wav" type="audio/wav">
@@ -275,4 +279,5 @@ By YuzukiTsuru. In development.
 ### straycat
 By UtaUtaUtau. In development.
 
-- [GitHub](https://github.com/UtaUtaUtau/straycat)
+- [GitHub](https://github.com/UtaUtaUtau/straycat-rs/)
+- [GitHub (Old Version)](https://github.com/UtaUtaUtau/straycat)
