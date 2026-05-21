@@ -9,6 +9,7 @@
 - [UTAU Repository](https://utaurepository.miraheze.org/wiki/Main_Page)
 - [UTAU Wiki 2.0](https://utau.wikidot.com)
 - [UTAU Wiki 3.0](https://utau.wiki/) (WIP)
+- [SVS Index](https://openutau.github.io/svs-index/)
 - [VocaDB Search](https://vocadb.net/Search?searchType=Artist&artistType=UTAU&childTags=false&page=1&pageSize=10&sort=SongRating)
 - [UTAU Wiki (Fandom)](https://utau.fandom.com/wiki/UTAU_wiki)
 - :flag_jp: [UTAU DB](http://utaudb.sakura.ne.jp/)
@@ -17,7 +18,8 @@
 
 ## USTs
 
-Everyone who distributes vocal synth project files has rules for them. Please be sure to read the readme or their website, and credit them when posting covers online.
+Everyone who distributes vocal synth project files has rules for them.  
+Please be sure to read the readme or their website, and credit them when posting covers online.
 
 ### Individuals
 
@@ -33,9 +35,11 @@ Everyone who distributes vocal synth project files has rules for them. Please be
 - [Vocaloader](https://vocaloader.app/)
 - :flag_jp: [UST Distribution tag on NicoNico](https://www.nicovideo.jp/tag/ust%E9%85%8D%E5%B8%83)
 - :flag_jp: [UST Distribution tag on BowlRoll](https://bowlroll.net/file/tag/UST%E9%85%8D%E5%B8%83)
-- :flag_cn: [vsqx.top](https://vsqx.top/) (Has many project files including for less common songs, but can vary in quality more than other options here)
+- :flag_cn: [vsqx.top](https://vsqx.top/)  
+    (Has many project files including for less common songs, but can vary in quality more than other options here)
 
-For vocal synth songs, you can usually search "[song name\] UST", "VSQ", or "SVP" to find an existing project file. For songs by human singers, you may find a project file, or you might need to find a midi of the song and edit it by hand.
+For vocal synth songs, you can usually search "[song name\] UST", "VSQ", or "SVP" to find an existing project file.  
+For songs by human singers, you may find a project file, or you might need to find a midi of the song and edit it by hand.
 
 ### Tools
 
@@ -43,7 +47,7 @@ For vocal synth songs, you can usually search "[song name\] UST", "VSQ", or "SVP
 
 ## Other UTAU websites
 
-These sites have tutorials and resources related to using and making UTAUs.
+These sites have tutorials and resources related to using and making UTAU voicebanks.
 
 - [utauguides](https://utauguides.carrd.co/)
 - [Wasteland UTAU](https://wastelandutau.neocities.org/ref/resources)
