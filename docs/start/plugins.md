@@ -1,3 +1,8 @@
+---
+tags:
+  - plugin
+---
+
 !!! note
     Currently no example images.
 
