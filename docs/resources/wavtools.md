@@ -32,8 +32,19 @@ By m13253. Crossplatform Wavtool.
 By Ying-Chun Liu. Wavtool for Linux.
 
 - [latest](https://osdn.net/projects/wavtool-pl/)
+- [GitHub Mirror](https://github.com/linrs/wavtool-pl)
 
 ## PyWavTool
 By Delta. Python based wavtool.
 
 - [GitHub](https://github.com/delta-kimigatame/PyWavTool)
+
+## SillySeams
+By MLo7Ghinsan.
+
+- [GitHub](https://github.com/MLo7Ghinsan/SillySeams)
+
+## wavtool-rs
+By SHIACKOWORKS.
+
+-[GitHub](https://github.com/SHIACKOWORKS/wavtool-rs)
