@@ -41,7 +41,7 @@ By KLAD. Changes `ん` to match the next note. (n, ng, m variants)
 
 ### PhonemizerOnUtau
 
-By xunmengshe. Allows using OpenUtau phonemizer on Original UTAU.
+By xunmengshe. Allows using OpenUtau phonemizers on Original UTAU.
 
 - [GitHub](https://github.com/xunmengshe/PhonemizerOnUtau)
 
