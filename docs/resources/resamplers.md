@@ -19,11 +19,10 @@ Comes with each UTAU version.
 
 ### doppeltler
 Remake of resampler.  
-[Website](https://utau2008.xrea.jp/2020/engine/)
 
 Supports samples in mp3, flac, and ogg if the respective executables are added to environment variables.
 
-[readme](https://utau2008.xrea.jp/2020/engine/doppeltler_readme_en.txt)
+[Website](https://utau2008.xrea.jp/2020/engine/) / [readme](https://utau2008.xrea.jp/2020/engine/doppeltler_readme_en.txt)
 
 <audio controls>
   <source src="/audio/resamplers/doppeltler009.wav" type="audio/wav">
@@ -39,29 +38,12 @@ Supports samples in mp3, flac, and ogg if the respective executables are added t
 ### fresamp
 Stands for **f**rame**resamp**ler.
 
-- 011 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp011.zip)
-
-<audio controls>
-  <source src="/audio/resamplers/fresamp11.wav" type="audio/wav">
-</audio>
-
-- 012 / Private
-
-<audio controls>
-  <source src="/audio/resamplers/fresamp12.wav" type="audio/wav">
-</audio>
-
-- 013 / Private
-
-<audio controls>
-  <source src="/audio/resamplers/fresamp13.wav" type="audio/wav">
-</audio>
-
-- 014 / [Direct DL](http://utau2008.xrea.jp/downloads/fresamp014.zip)
-
-<audio controls>
-  <source src="/audio/resamplers/fresamp14.wav" type="audio/wav">
-</audio>
+|Version|Audio|Download|Notes|
+|-|-|-|-|
+|011|<audio controls><source src="/audio/resamplers/fresamp11.wav" type="audio/wav"></audio>|[Direct DL](http://utau2008.xrea.jp/downloads/fresamp011.zip)||
+|012|<audio controls><source src="/audio/resamplers/fresamp12.wav" type="audio/wav"></audio>|Private||
+|013|<audio controls><source src="/audio/resamplers/fresamp13.wav" type="audio/wav"></audio>|Private||
+|014|<audio controls><source src="/audio/resamplers/fresamp14.wav" type="audio/wav"></audio>|[Direct DL](http://utau2008.xrea.jp/downloads/fresamp014.zip)||
 
 ### f2resamp
 Remake of fresamp.
@@ -147,13 +129,13 @@ By ScientistB. Good with soft voicebanks.
 
 ### bkh01
 By Zteer.  
-[Homepage](http://z-server.game.coocan.jp/utau/utautop.html)
+[Homepage](https://ysssssss.github.io/ZteerUTAU/) ([Original](http://z-server.game.coocan.jp/utau/utautop.html))
 
 <audio controls>
   <source src="/audio/resamplers/bkh01.wav" type="audio/wav">
 </audio>
 
-- [Download](http://z-server.game.coocan.jp/utau/utautop.html#bkh01)
+- [Download](https://ysssssss.github.io/ZteerUTAU/#bkh01)
 
 ### VS4U (VocalShifter4UTAU)
 By Ackie Sound.  
@@ -188,15 +170,6 @@ by Astel123457. In development. Not related to moresampler, but uses libllsm2.
 [GitHub](https://github.com/Astel123457/moresampler2)
 
 - [Latest Release](https://github.com/Astel123457/moresampler2/releases/latest)
-
-### presamp
-By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling.  
-Can be used with whatever resampler or wavtool you want.  
-Sometimes, config files for presamp will be included with non-Japanese banks to improve ease of use.  
-[Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar477661)
-
-- [English setup guide by KLAD](https://tl.tubs.wtf/2021/07/11/presamp-download)
-
 
 ## WORLD Based Resamplers
 
@@ -296,12 +269,13 @@ By Zany. Edit of WARP/EFB-GT.
 
 ### tn_fnds
 By Zteer.
+[Homepage](https://ysssssss.github.io/ZteerUTAU/) ([Original](http://z-server.game.coocan.jp/utau/utautop.html))
 
 <audio controls>
   <source src="/audio/resamplers/tn_fnds.wav" type="audio/wav">
 </audio>
 
-- [0.0.9](http://z-server.game.coocan.jp/utau/utautop.html#tn_fnds)
+- [Download](https://ysssssss.github.io/ZteerUTAU/#tn_fnds)
 
 ### young3
 By Zany. tn_fnds edited to use HARVEST F0 estimation.

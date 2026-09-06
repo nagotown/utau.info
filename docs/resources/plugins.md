@@ -26,7 +26,7 @@ By Delta. Automates turning CV notes into CVVC notes.
 ### Extended Envelope Editor
 By Zteer.
 
-- [Latest](http://z-server.game.coocan.jp/utau/utautop.html#envedit)
+- [Homepage](https://ysssssss.github.io/ZteerUTAU/#envedit) ([Original]((http://z-server.game.coocan.jp/utau/utautop.html#envedit)))
 
 ### ENUNU
 By **[oatsu](https://github.com/oatsu-gh)**. NNSVS ported to UTAU as a plugin.
@@ -55,10 +55,10 @@ By Ackie Sound. Reads VocalShifter project / WAV file and applies the pitch.
 ### Frequency Tracer
 By Zteer.
 
-- [Homepage](http://z-server.game.coocan.jp/utau/utautop.html#freqtrace)
+- [Homepage](https://ysssssss.github.io/ZteerUTAU/#freqtrace) ([Original](http://z-server.game.coocan.jp/utau/utautop.html#freqtrace))
 
 ### UtaLis
-By SHINTA. Reads 
+By SHINTA.
 
 - [Homepage](https://shinta.coresv.com/software/utalis_jpn/)
 
@@ -66,7 +66,7 @@ By SHINTA. Reads
 
 By Zteer.
 
-- [Latest](http://z-server.game.coocan.jp/utau/utautop.html#pitedit)
+- [Homepage](https://ysssssss.github.io/ZteerUTAU/#pitedit) ([Original](http://z-server.game.coocan.jp/utau/utautop.html#pitedit))
 
 ### AutoPitchWriter
 By Canon. Automatically tunes the UST.
