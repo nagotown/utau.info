@@ -7,19 +7,21 @@ Based off of Delta's CVVC otoing guide [here](https://delta-kimigatame.hatenablo
 ### Consonants
 
 !!! note
-    If your R sounds like an english L, it's a soft consonant and not a plosive consonant
+    What is a plosive or not can vary depending on how you pronounce it, so this list will not be accurate for everyone.
 
 #### Plosive
 
 Voiceless
 
-k, t, p, ts, ch
+k, t, ts, ch, p
 
 Voiced
 
-g, d, b, j, r
+g, d, b, z, j
 
 #### Soft
+
+Fricatives, Semivowels, Liquids
 
 s, n, h, m, y, r, w
 
