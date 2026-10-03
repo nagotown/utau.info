@@ -31,10 +31,11 @@ nav:
 #      - Chinese:
 #      - Korean:
 #      - English:
-  - Resources:
+  - Resources: 
+    - resources/index.md
     - General: resources/general.md 
     - Resamplers: resources/resamplers.md
-#    - Resampler Flags: resources/flags.md
+    - Resampler Flags: resources/flags.md
     - Wavtools: resources/wavtools.md
     - Plugins: resources/plugins.md
     - Tools: resources/tools.md
@@ -44,6 +45,7 @@ nav:
 #      - Chinese: resources/reclists/chinese.md
 #      - Korean: resources/reclists/korean.md
       - English: resources/reclists/english.md
+    - GuideBGM: resources/guidebgm.md
   - About: about.md
 theme:
   name: material
@@ -71,6 +73,8 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
 markdown_extensions:
+  - toc:
+      permalink: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -94,6 +98,8 @@ plugins:
   - tags 
   - search 
   - blog
-  - social
+  - social:
+      cards_layout_options:
+        description: A site for UTAU resources
 repo_url: https://github.com/nagotown/utau.info
 repo_name: utau.info
