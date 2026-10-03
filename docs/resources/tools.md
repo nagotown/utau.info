@@ -137,6 +137,14 @@ By まいこ. Various tools for editing the oto.ini. Japanese only.
 
 ## Other
 
+### presamp
+By Delta. Lets CV USTs process as CV, VCV, or CVVC when resampling.  
+Can be used with whatever resampler or wavtool you want.  
+Sometimes, config files for presamp will be included with non-Japanese banks to improve ease of use.  
+[Homepage](https://delta-kimigatame.hatenablog.jp/entry/ar477661)
+
+- [English setup guide by KLAD](https://tl.tubs.wtf/2021/07/11/presamp-download)
+
 ### GAKUYA :new:
 
 By Delta. Browser-based voicebank packaging tool.
