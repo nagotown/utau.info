@@ -1,8 +1,8 @@
-## CVVC (Delta)
+## CVVC (X-SAMPA)
 
 English recording method originally aimed towards Japanese speakers.
 
-### Delta Official Lists
+### Delta
 
 [Original Japanese Post](https://delta-kimigatame.hatenablog.jp/entry/ar761052)
 
