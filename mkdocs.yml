@@ -32,7 +32,6 @@ nav:
 #      - Korean:
 #      - English:
   - Resources: 
-    - resources/index.md
     - General: resources/general.md 
     - Resamplers: resources/resamplers.md
     - Resampler Flags: resources/flags.md
